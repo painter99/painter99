@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Pavel Mareš
 
+[🇨🇿 Česká verze](https://github.com/painter99/painter99/blob/main/README_CS.md)
+
 ## 🚀 Aspiring Software Tester | Cybersecurity & Automation Enthusiast
 
 After several years in the powder coating industry, where I honed my precision and technical problem-solving skills, I decided to pursue my long-standing passion for technology. My goal is to become an expert in software quality assurance and security, where I can apply the fundamentals of analytical thinking and the pursuit of continuous improvement.
