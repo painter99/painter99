@@ -2,7 +2,7 @@
 
 ## 🚀 Aspiring Software Tester | Cybersecurity & Automation Enthusiast
 
-After several years in the powder coating industry, where I honed my precision and technical problem-solving skills, I decided to pursue my long-standing passion for technology. My goal is to become an expert in software quality assurance and security, where I can apply my analytical thinking and drive for continuous improvement.
+After several years in the powder coating industry, where I honed my precision and technical problem-solving skills, I decided to pursue my long-standing passion for technology. My goal is to become an expert in software quality assurance and security, where I can apply the fundamentals of analytical thinking and the pursuit of continuous improvement.
 
 ### 🛠 Skills & Learning
 - Manual and automated testing of web applications
