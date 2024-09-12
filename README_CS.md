@@ -15,6 +15,27 @@ Po několika letech v oblasti práškového lakování, kde jsem si osvojil prec
   * Python: Automatizace testovacích scénářů pomocí skriptů
 - Správa verzí: 
   * Git: Správa verzí pro týmový projekt a dokumentace testovacích procesů
+  * 
+### 📚 Odborná literatura a kontinuální vzdělávání
+
+Pro prohloubení mého porozumění kybernetické bezpečnosti a IT studuji odbornou literaturu:
+
+1. **"Kryptografie okolo nás" od Karla Burdy, 2019**
+   - Praktický pohled na kryptografii v každodenním životě
+   - Základní kryptografické funkce a jejich aplikace
+   - Přehled běžně používaných protokolů a systémů
+
+2. **"CyberSecurity" od Jana Koloucha a kol., 2019**
+   - Komplexní pohled na kybernetickou bezpečnost
+   - Právní aspekty včetně zákona o kybernetické bezpečnosti
+   - Praktické přístupy k implementaci bezpečnostních opatření
+
+3. **"CyberCrime" od Jana Koloucha, 2016**
+   - Hloubková analýza kybernetické kriminality
+   - Právní a technické aspekty kybernetických hrozeb
+   - Metody vyšetřování a prevence kybernetických zločinů
+
+Tyto knihy mi poskytly solidní teoretický základ a praktické znalosti, které hodlám uplatnit při testování bezpečnosti softwaru a zajištění kvality.
 
 ### 🤖 Řešení problémů s asistencí AI
 Rozvíjím dovednosti ve využívání AI modelů pro řešení komplexních problémů, včetně:
