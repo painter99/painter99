@@ -16,6 +16,26 @@ After several years in the powder coating industry, where I honed my precision a
 - Version Control: 
   * Git: Version management for team projects and documentation of testing processes
 
+### 📚 Professional Literature and Continuous Education
+To deepen my understanding of cybersecurity and IT, I'm actively studying professional literature:
+
+1. **"Kryptografie okolo nás" (Cryptography Around Us) by Karel Burda, 2019**
+   - Practical view on cryptography in everyday life
+   - Fundamental cryptographic functions and their applications
+   - Overview of commonly used protocols and systems
+
+2. **"CyberSecurity" by Jan Kolouch et al., 2019**
+   - Comprehensive look at cybersecurity
+   - Legal aspects including cybersecurity law
+   - Practical approaches to implementing security measures
+
+3. **"CyberCrime" by Jan Kolouch, 2016**
+   - In-depth analysis of cybercrime
+   - Legal and technical aspects of cyber threats
+   - Methods of investigation and prevention of cybercrimes
+
+These books provide me with a solid theoretical foundation and practical knowledge that I plan to apply in security testing and vulnerability analysis.
+
 ### 🤖 AI-Assisted Problem Solving
 I'm developing skills in utilizing AI models for complex problem-solving, including:
 - Comparative analysis of AI outputs
