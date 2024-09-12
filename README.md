@@ -17,7 +17,7 @@ After several years in the powder coating industry, where I honed my precision a
   * Git: Version management for team projects and documentation of testing processes
 
 ### 📚 Professional Literature and Continuous Education
-To deepen my understanding of cybersecurity and IT, I'm actively studying professional literature:
+To deepen my understanding of cybersecurity and IT, I'm studying professional literature:
 
 1. **"Kryptografie okolo nás" (Cryptography Around Us) by Karel Burda, 2019**
    - Practical view on cryptography in everyday life
@@ -34,7 +34,7 @@ To deepen my understanding of cybersecurity and IT, I'm actively studying profes
    - Legal and technical aspects of cyber threats
    - Methods of investigation and prevention of cybercrimes
 
-These books provide me with a solid theoretical foundation and practical knowledge that I plan to apply in security testing and vulnerability analysis.
+These books provide me with a solid theoretical foundation and practical knowledge that I plan to apply in software security testing and QA.
 
 ### 🤖 AI-Assisted Problem Solving
 I'm developing skills in utilizing AI models for complex problem-solving, including:
