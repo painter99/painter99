@@ -1,5 +1,7 @@
 # 👋 Ahoj, jsem Pavel Mareš
 
+[🇬🇧 English version](https://github.com/painter99/painter99/blob/main/README.md)
+
 ## 🚀 Aspirující Software Tester | Nadšenec pro Kybernetickou Bezpečnost a Automatizaci
 
 Po několika letech v oblasti práškového lakování, kde jsem si osvojil preciznost a řešení technických problémů, jsem se rozhodl následovat svou dlouhodobou vášeň pro technologie. Mým cílem je stát se odborníkem v oblasti zajišťování kvality a bezpečnosti softwaru, kde mohu uplatnit základy analytického myšlení a snahu o neustálé zlepšování.
