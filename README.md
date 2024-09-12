@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pavel Mareš
 
-[🇨🇿 Česká verze](https://github.com/painter99/painter99/blob/main/README_CS.md)
+[🇨🇿 Česká verze](https://github.com/painter99/QA-and-Security-Testing-Project/blob/main/README_CS.md)
 
 ## 🚀 Aspiring Software Tester | Cybersecurity & Automation Enthusiast
 
