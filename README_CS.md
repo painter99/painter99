@@ -15,7 +15,7 @@ Po několika letech v oblasti práškového lakování, kde jsem si osvojil prec
   * Python: Automatizace testovacích scénářů pomocí skriptů
 - Správa verzí: 
   * Git: Správa verzí pro týmový projekt a dokumentace testovacích procesů
-  * 
+
 ### 📚 Odborná literatura a kontinuální vzdělávání
 
 Pro prohloubení mého porozumění kybernetické bezpečnosti a IT studuji odbornou literaturu:
