@@ -35,6 +35,11 @@ Pro prohloubení mého porozumění kybernetické bezpečnosti a IT studuji odbo
    - Právní a technické aspekty kybernetických hrozeb
    - Metody vyšetřování a prevence kybernetických zločinů
 
+4. **"ISTQB Certifikovaný tester základní úrovně (Foundation Level)" verze 4.0.3, 2024**
+- Komplexní přehled základů testování softwaru a klíčových konceptů
+- Představení různých technik testování a jejich aplikace v praxi
+- Základy managementu testování a používání testovacích nástrojů
+
 Tyto knihy mi poskytly solidní teoretický základ a praktické znalosti, které hodlám uplatnit při testování bezpečnosti softwaru a zajištění kvality.
 
 ### 🤖 Řešení problémů s asistencí AI
