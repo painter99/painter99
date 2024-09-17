@@ -18,7 +18,7 @@ Po několika letech v oblasti práškového lakování, kde jsem si osvojil prec
 
 ### 📚 Odborná literatura a kontinuální vzdělávání
 
-Pro prohloubení mého porozumění kybernetické bezpečnosti, testování softwaru a IT obecně studuji následující odbornou literaturu a materiály:
+Pro prohloubení mého porozumění kybernetické bezpečnosti, testování softwaru a IT obecně, studuji následující odbornou literaturu a materiály:
 
 1. **"Kryptografie okolo nás" od Karla Burdy, 2019**
    - Praktický pohled na kryptografii v každodenním životě
@@ -49,7 +49,7 @@ Rozvíjím dovednosti ve využívání AI modelů pro řešení komplexních pro
 - Kritického hodnocení a syntézy informací generovaných AI
 
 ### 🌱 Současné zaměření
-Aktuálně pracuji na projektu QA a bezpečnostního testování, ve kterém kombinuji manuální a automatizované testování webových aplikací. Zaměřuji se na integraci bezpečnostního testování s využitím OWASP ZAP a tvorbu automatických testovacích skriptů v Playwright. Pro více detailů o mém projektu se podívejte na můj repozitář na GitHubu.
+Aktuálně pracuji na projektu QA a bezpečnostního testování, ve kterém kombinuji manuální a automatizované testování webových aplikací. Zaměřuji se na integraci bezpečnostního testování s využitím OWASP ZAP a tvorbu automatických testovacích skriptů v Playwright. Pro více detailů o mém projektu se podívejte na můj [Projekt QA a bezpečnostního testování](https://github.com/painter99/QA-and-Security-Testing-Project/blob/main/README_CS.md) na GitHubu.
 
 ### 🔭 Zájmy
 - Open-source technologie (zkoumám Fedoru a GrapheneOS)
