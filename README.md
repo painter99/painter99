@@ -34,6 +34,11 @@ To deepen my understanding of cybersecurity and IT, I'm studying professional li
    - Legal and technical aspects of cyber threats
    - Methods of investigation and prevention of cybercrimes
 
+4. **"ISTQB Certified Tester Foundation Level" version 4.0.3, 2024**
+- Comprehensive overview of software testing fundamentals and key concepts
+- Introduction to various testing techniques and their practical application
+- Basics of test management and use of testing tools
+
 These books provide me with a solid theoretical foundation and practical knowledge that I plan to apply in software security testing and QA.
 
 ### 🤖 AI-Assisted Problem Solving
