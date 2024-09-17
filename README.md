@@ -49,7 +49,7 @@ I'm developing skills in utilizing AI models for complex problem-solving, includ
 - Critical evaluation and synthesis of AI-generated information
 
 ### 🌱 Current Focus
-I'm currently working on a QA and security testing project that combines manual and automated testing of web applications. I'm focusing on integrating security testing using OWASP ZAP and creating automated test scripts in Playwright. For more details about my project, check out my repository on GitHub.
+I'm currently working on a QA and security testing project that combines manual and automated testing of web applications. I'm focusing on integrating security testing using OWASP ZAP and creating automated test scripts in Playwright. For more details about my project, check out my [QA and Security Testing Project](https://github.com/painter99/QA-and-Security-Testing-Project/blob/main/README.md) on GitHub.
 
 ### 🔭 Interests
 - Open-source technologies (exploring Fedora and GrapheneOS)
