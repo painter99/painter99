@@ -18,7 +18,7 @@ Po několika letech v oblasti práškového lakování, kde jsem si osvojil prec
 
 ### 📚 Odborná literatura a kontinuální vzdělávání
 
-Pro prohloubení mého porozumění kybernetické bezpečnosti a IT studuji odbornou literaturu:
+Pro prohloubení mého porozumění kybernetické bezpečnosti, testování softwaru a IT obecně studuji následující odbornou literaturu a materiály:
 
 1. **"Kryptografie okolo nás" od Karla Burdy, 2019**
    - Praktický pohled na kryptografii v každodenním životě
