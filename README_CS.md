@@ -1,68 +1,58 @@
-# 👋 Ahoj, jsem Pavel Mareš
+# 👋 Ahoj, jsem Pavel
 
 [🇬🇧 English version](https://github.com/painter99/painter99/blob/main/README.md)
 
-## 🚀 Aspirující Software Tester | Nadšenec pro Kybernetickou Bezpečnost a Automatizaci
+Po několikaleté praxi v práškovém lakování jsem nasbíral cenné dovednosti v preciznosti a systematickém přístupu k práci. Tyto schopnosti mi teď pomáhají při studiu testování softwaru, kde se zaměřuji hlavně na kvalitu a bezpečnost.
 
-Po několika letech v oblasti práškového lakování, kde jsem si osvojil preciznost a řešení technických problémů, jsem se rozhodl následovat svou dlouhodobou vášeň pro technologie. Mým cílem je stát se odborníkem v oblasti zajišťování kvality a bezpečnosti softwaru, kde mohu uplatnit základy analytického myšlení a snahu o neustálé zlepšování.
+### 🎓 Co už mám za sebou
+- Certifikace Junior Tester od Engeto (100 hodin)
+  * Obsah kurzu: úvod a SDLC, terminologie, strategie, metody, databáze, testovací plány, základy jazyka Python, základy Git, Playwright
+  * Kurz zahrnoval: 30 hodin výuky s lektory, 70 hodin samostudia a 2 miniprojekty
 
-### 🛠 Dovednosti & Učení
-- Manuální a automatizované testování webových aplikací
-- Bezpečnostní testování (OWASP Top 10)
-- Testování API a výkonnostní testování
-- Nástroje: Playwright, Postman, JMeter, OWASP ZAP
-- Programování: 
-  * Python: Automatizace testovacích scénářů pomocí skriptů
-- Správa verzí: 
-  * Git: Správa verzí pro týmový projekt a dokumentace testovacích procesů
+- Kurz Kybernetické bezpečnosti od ITnetwork (70 hodin)
+  * Obsah kurzu: základní pojmy, kryptografie, digitální podpis, certifikační autorita, hesla, biometrická ochrana, uživatelské účty, přihlašování, šifrování dat, GPG / PGP, zálohování, špionážní technika, sociální inženýrství, zabezpečení SSL, MITM útoky
+  * Kurz zahrnoval: 70 hodin samostudia
 
-### 📚 Odborná literatura a kontinuální vzdělávání
+### 💻 S čím už mám zkušenost
+- V testování:
+  * Základy manuálního testování webových aplikací
+  * První kroky s automatizací v Playwright
+  * Práce s Postman pro API testování
+- V programování a nástrojích:
+  * Python, SQL (základy pro testování)
+  * Git (základní příkazy, správa verzí)
+  * Linux (základní práce v terminálu)
 
-Pro prohloubení mého porozumění kybernetické bezpečnosti, testování softwaru a IT obecně, studuji následující odbornou literaturu a materiály:
+### 🚀 Na čem teď pracuji
+Vytvořil jsem veřejně dostupný projekt [AI Templates](https://github.com/painter99/ai-templates):
+- Sbírka šablon pro efektivní využití AI v různých oborech
+- Návody a příklady, jak s AI pracovat
+- Zaměřil jsem se na QA, vývoj a vzdělávání
+- Sepsal jsem best practices a principy etického použití AI
 
-1. **"Kryptografie okolo nás" od Karla Burdy, 2019**
-   - Praktický pohled na kryptografii v každodenním životě
-   - Základní kryptografické funkce a jejich aplikace
-   - Přehled běžně používaných protokolů a systémů
+### 🔍 Co se právě učím
+- Upevňuji si základy HTML/CSS pro lepší testování
+- Používám Fedoru a GrapheneOS pro pochopení bezpečnosti
+- Prohlubuji teoretické znalosti v QA a security testingu
 
-2. **"CyberSecurity" od Jana Koloucha a kol., 2019**
-   - Komplexní pohled na kybernetickou bezpečnost
-   - Právní aspekty včetně zákona o kybernetické bezpečnosti
-   - Praktické přístupy k implementaci bezpečnostních opatření
+### ✨ Co můžu nabídnout
+- Systematický přístup k práci a dokumentaci
+- Aktivní řešení problémů
+- Rychle se učím nové věci
+- Umím efektivně využívat moderní nástroje včetně AI
+- Mám zkušenosti s precizní prací
 
-3. **"CyberCrime" od Jana Koloucha, 2016**
-   - Hloubková analýza kybernetické kriminality
-   - Právní a technické aspekty kybernetických hrozeb
-   - Metody vyšetřování a prevence kybernetických zločinů
+### 🎯 Kam směřuji
+- Hledám svou první příležitost v QA/testování
+- Chci se postupně specializovat na bezpečnostní testování
+- Zajímá mě automatizace testů
+- Připravuji se na ISTQB certifikaci
 
-4. **"ISTQB Certifikovaný tester základní úrovně (Foundation Level)" verze 4.0.3, 2024**
-   - Komplexní přehled základů testování softwaru a klíčových konceptů
-   - Představení různých technik testování a jejich aplikace v praxi
-   - Základy managementu testování a používání testovacích nástrojů
+### 📫 O jaké pozice se zajímám
+- Junior QA Tester
+- Junior Software Tester
+- Junior Manual Tester
+- Entry-level pozice v testování
 
-Tyto studijní materiály mi poskytly solidní teoretický základ a praktické znalosti, které hodlám uplatnit při testování bezpečnosti softwaru a zajištění kvality.
-
-### 🤖 Řešení problémů s asistencí AI
-Rozvíjím dovednosti ve využívání AI modelů pro řešení komplexních problémů, včetně:
-- Komparativní analýzy výstupů AI
-- Iterativního vylepšování AI promptů
-- Kritického hodnocení a syntézy informací generovaných AI
-
-### 🌱 Současné zaměření
-Aktuálně pracuji na projektu QA a bezpečnostního testování, ve kterém kombinuji manuální a automatizované testování webových aplikací. Zaměřuji se na integraci bezpečnostního testování s využitím OWASP ZAP a tvorbu automatických testovacích skriptů v Playwright. Pro více detailů o mém projektu se podívejte na můj [Projekt QA a bezpečnostního testování](https://github.com/painter99/QA-and-Security-Testing-Project/blob/main/README_CS.md) na GitHubu.
-
-### 🔭 Zájmy
-- Open-source technologie (zkoumám Fedoru a GrapheneOS)
-- Kybernetická bezpečnost
-- Kontinuální učení a adaptace na nové technologie
-
-### 🎯 Cíle
-- Přispívat k inovativním IT projektům
-- Rozvíjet expertízu v QA a bezpečnostním testování
-- Překlenout propast mezi tradičními odvětvími a moderními IT postupy
-
-### 📫 Jak mě kontaktovat
-- LinkedIn: [Pavel Mareš](https://linkedin.com/in/pavel-mares-p99)
-
-Pokud máte zájem o spolupráci nebo mě chcete kontaktovat ohledně mých projektů, neváhejte se mi ozvat na LinkedIn nebo GitHub!
-
+---
+*Pokud máte zájem o spolupráci nebo mě chcete kontaktovat ohledně mých projektů, neváhejte se mi ozvat zde na GitHubu nebo na [LinkedIn](https://linkedin.com/in/pavel-mares-p99).*
