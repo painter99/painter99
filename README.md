@@ -1,67 +1,58 @@
-# 👋 Hi, I'm Pavel Mareš
+# 👋 Hi, I'm Pavel
 
-[🇨🇿 Česká verze](https://github.com/painter99/painter99/blob/main/README_CS.md)
+[🇨🇿 Czech version](https://github.com/painter99/painter99/blob/main/README_CS.md)
 
-## 🚀 Aspiring Software Tester | Cybersecurity & Automation Enthusiast
+After several years of experience in powder coating, I've gained valuable skills in precision and systematic approach to work. These abilities are now helping me in studying software testing, where I mainly focus on quality and security.
 
-After several years in the powder coating industry, where I honed my precision and technical problem-solving skills, I decided to pursue my long-standing passion for technology. My goal is to become an expert in software quality assurance and security, where I can apply the fundamentals of analytical thinking and the pursuit of continuous improvement.
+### 🎓 Education Completed
+- Junior Tester Certification from Engeto (100 hours)
+  * Course content: introduction and SDLC, terminology, strategies, methods, databases, test plans, Python basics, Git basics, Playwright
+  * Course included: 30 hours of instructor-led training, 70 hours of self-study, and 2 mini-projects
 
-### 🛠 Skills & Learning
-- Manual and automated testing of web applications
-- Security testing (OWASP Top 10)
-- API and performance testing
-- Tools: Playwright, Postman, JMeter, OWASP ZAP
-- Programming: 
-  * Python: Automation of test scenarios using scripts
-- Version Control: 
-  * Git: Version management for team projects and documentation of testing processes
+- Cybersecurity Course from ITnetwork (70 hours)
+  * Course content: basic concepts, cryptography, digital signatures, certificate authority, passwords, biometric protection, user accounts, authentication, data encryption, GPG / PGP, backups, espionage techniques, social engineering, SSL security, MITM attacks
+  * Course included: 70 hours of self-study
 
-### 📚 Professional Literature and Continuous Education
+### 💻 My Experience
+- In testing:
+  * Basics of manual web application testing
+  * First steps with Playwright automation
+  * Working with Postman for API testing
+- In programming and tools:
+  * Python, SQL (testing basics)
+  * Git (basic commands, version control)
+  * Linux (basic terminal operations)
 
-To deepen my understanding of cybersecurity, software testing, and IT in general, I am studying the following professional literature and materials:
+### 🚀 Current Project
+I've created a publicly available project [AI Templates](https://github.com/painter99/ai-templates):
+- Collection of templates for effective AI use in various fields
+- Guides and examples on how to work with AI
+- Focus on QA, development, and education
+- Documented best practices and principles of ethical AI use
 
-1. **"Kryptografie okolo nás" (Cryptography Around Us) by Karel Burda, 2019**
-   - Practical view on cryptography in everyday life
-   - Fundamental cryptographic functions and their applications
-   - Overview of commonly used protocols and systems
+### 🔍 Currently Learning
+- Strengthening HTML/CSS basics for better testing
+- Using Fedora and GrapheneOS to understand security
+- Deepening theoretical knowledge in QA and security testing
 
-2. **"CyberSecurity" by Jan Kolouch et al., 2019**
-   - Comprehensive look at cybersecurity
-   - Legal aspects including cybersecurity law
-   - Practical approaches to implementing security measures
+### ✨ What I Can Offer
+- Systematic approach to work and documentation
+- Active problem solving
+- Quick learning of new things
+- Efficient use of modern tools including AI
+- Experience with precision work
 
-3. **"CyberCrime" by Jan Kolouch, 2016**
-   - In-depth analysis of cybercrime
-   - Legal and technical aspects of cyber threats
-   - Methods of investigation and prevention of cybercrimes
+### 🎯 Where I'm Heading
+- Looking for my first opportunity in QA/testing
+- Want to gradually specialize in security testing
+- Interested in test automation
+- Preparing for ISTQB certification
 
-4. **"ISTQB Certified Tester Foundation Level" version 4.0.3, 2024**
-   - Comprehensive overview of software testing fundamentals and key concepts
-   - Introduction to various testing techniques and their practical application
-   - Basics of test management and use of testing tools
+### 📫 Positions I'm Interested In
+- Junior QA Tester
+- Junior Software Tester
+- Junior Manual Tester
+- Entry-level positions in testing
 
-These study materials have provided me with a solid theoretical foundation and practical knowledge that I plan to apply in software security testing and QA.
-
-### 🤖 AI-Assisted Problem Solving
-I'm developing skills in utilizing AI models for complex problem-solving, including:
-- Comparative analysis of AI outputs
-- Iterative improvement of AI prompts
-- Critical evaluation and synthesis of AI-generated information
-
-### 🌱 Current Focus
-I'm currently working on a QA and security testing project that combines manual and automated testing of web applications. I'm focusing on integrating security testing using OWASP ZAP and creating automated test scripts in Playwright. For more details about my project, check out my [QA and Security Testing Project](https://github.com/painter99/QA-and-Security-Testing-Project/blob/main/README.md) on GitHub.
-
-### 🔭 Interests
-- Open-source technologies (exploring Fedora and GrapheneOS)
-- Cybersecurity
-- Continuous learning and adaptation to new technologies
-
-### 🎯 Goals
-- Contribute to innovative IT projects
-- Develop expertise in QA and security testing
-- Bridge the gap between traditional industries and modern IT practices
-
-### 📫 How to reach me
-- LinkedIn: [Pavel Mareš](https://linkedin.com/in/pavel-mares-p99)
-
-If you're interested in collaboration or want to contact me about my projects, don't hesitate to reach out on LinkedIn or GitHub!
+---
+*If you are interested in collaboration or would like to contact me about my projects, don't hesitate to reach out here on GitHub or on [LinkedIn](https://linkedin.com/in/pavel-mares-p99).*
