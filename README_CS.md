@@ -27,13 +27,7 @@ Po několikaleté praxi v práškovém lakování jsem nasbíral cenné dovednos
 Vytvořil jsem veřejně dostupný projekt [AI Templates](https://github.com/painter99/ai-templates):
 - Sbírka šablon pro efektivní využití AI v různých oborech
 - Návody a příklady, jak s AI pracovat
-- Zaměřil jsem se na QA, vývoj a vzdělávání
 - Sepsal jsem best practices a principy etického použití AI
-
-### 🔍 Co se právě učím
-- Upevňuji si základy HTML/CSS pro lepší testování
-- Používám Fedoru a GrapheneOS pro pochopení bezpečnosti
-- Prohlubuji teoretické znalosti v QA a security testingu
 
 ### ✨ Co můžu nabídnout
 - Systematický přístup k práci a dokumentaci
