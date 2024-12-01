@@ -27,13 +27,7 @@ After several years of experience in powder coating, I've gained valuable skills
 I've created a publicly available project [AI Templates](https://github.com/painter99/ai-templates):
 - Collection of templates for effective AI use in various fields
 - Guides and examples on how to work with AI
-- Focus on QA, development, and education
 - Documented best practices and principles of ethical AI use
-
-### 🔍 Currently Learning
-- Strengthening HTML/CSS basics for better testing
-- Using Fedora and GrapheneOS to understand security
-- Deepening theoretical knowledge in QA and security testing
 
 ### ✨ What I Can Offer
 - Systematic approach to work and documentation
