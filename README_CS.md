@@ -2,51 +2,74 @@
 
 [🇬🇧 English version](https://github.com/painter99/painter99/blob/main/README.md)
 
-Po několikaleté praxi v práškovém lakování jsem nasbíral cenné dovednosti v preciznosti a systematickém přístupu k práci. Tyto schopnosti mi teď pomáhají při studiu testování softwaru, kde se zaměřuji hlavně na kvalitu a bezpečnost.
-
-### 🎓 Co už mám za sebou
-- Certifikace Junior Tester od Engeto (100 hodin)
-  * Obsah kurzu: úvod a SDLC, terminologie, strategie, metody, databáze, testovací plány, základy jazyka Python, základy Git, Playwright
-  * Kurz zahrnoval: 30 hodin výuky s lektory, 70 hodin samostudia a 2 miniprojekty
-
-- Kurz Kybernetické bezpečnosti od ITnetwork (70 hodin)
-  * Obsah kurzu: základní pojmy, kryptografie, digitální podpis, certifikační autorita, hesla, biometrická ochrana, uživatelské účty, přihlašování, šifrování dat, GPG / PGP, zálohování, špionážní technika, sociální inženýrství, zabezpečení SSL, MITM útoky
-  * Kurz zahrnoval: 70 hodin samostudia
-
-### 💻 S čím už mám zkušenost
-- V testování:
-  * Základy manuálního testování webových aplikací
-  * První kroky s automatizací v Playwright
-  * Práce s Postman pro API testování
-- V programování a nástrojích:
-  * Python, SQL (základy pro testování)
-  * Git (základní příkazy, správa verzí)
-  * Linux (základní práce v terminálu)
-
-### 🚀 Na čem teď pracuji
-Vytvořil jsem veřejně dostupný projekt [AI Templates](https://github.com/painter99/ai-templates):
-- Sbírka šablon pro efektivní využití AI v různých oborech
-- Návody a příklady, jak s AI pracovat
-- Sepsal jsem best practices a principy etického použití AI
-
-### ✨ Co můžu nabídnout
-- Systematický přístup k práci a dokumentaci
-- Aktivní řešení problémů
-- Rychle se učím nové věci
-- Umím efektivně využívat moderní nástroje včetně AI
-- Mám zkušenosti s precizní prací
-
-### 🎯 Kam směřuji
-- Hledám svou první příležitost v QA/testování
-- Chci se postupně specializovat na bezpečnostní testování
-- Zajímá mě automatizace testů
-- Připravuji se na ISTQB certifikaci
-
-### 📫 O jaké pozice se zajímám
-- Junior QA Tester
-- Junior Software Tester
-- Junior Manual Tester
-- Entry-level pozice v testování
+Po několikaleté praxi v průmyslové výrobě jsem si osvojil **systematičnost, preciznost a analytické myšlení**, které nyní využívám při práci s **AI**.  
+Mým hlavním zaměřením je **Prompt Engineering**, kde se aktuálně soustředím na **NLP**, optimalizaci jazykových modelů a tvorbu efektivních promptů.
 
 ---
-*Pokud máte zájem o spolupráci nebo mě chcete kontaktovat ohledně mých projektů, neváhejte se mi ozvat zde na GitHubu nebo na [LinkedIn](https://linkedin.com/in/pavel-mares-p99).*
+
+## 🎓 Co už mám za sebou  
+### 🔹 Certifikace a kurzy  
+
+✅ **Certifikace Junior Tester – Engeto (100 hodin)**  
+📌 **Obsah:** SDLC, testovací strategie, databáze, testovací plány, Python, Git, Playwright  
+📌 **Výuka:** 30 hodin s lektory, 70 hodin samostudia, 2 miniprojekty  
+
+✅ **Kurz Kybernetické bezpečnosti – ITnetwork (70 hodin)**  
+📌 **Obsah:** Kryptografie, hesla, šifrování, zabezpečení SSL, MITM útoky, sociální inženýrství  
+📌 **Samostudium:** 70 hodin  
+
+---
+
+## 🚀 Na čem teď pracuji  
+
+🔹 **Optimalizace promptů pro AI modely** – zlepšování výkonu a přesnosti odpovědí  
+🔹 **Vývoj AI mentora** – vytvořil jsem **personalizovaný AI framework**, který mi pomáhá efektivně se učit a rozvíjet  
+
+---
+
+## 📌 Moje cesta k osobnímu mentorovi  
+
+Odjakživa jsem hledal způsob, jak **se učit efektivněji, lépe se organizovat a získat kvalitní zpětnou vazbu**.  
+Tak vznikla **myšlenka osobního AI mentora** – průvodce, který mi pomáhá **držet tempo, přizpůsobit se mým potřebám a být vždy k dispozici**.  
+
+📌 **Co pro mě znamená ideální mentor?**  
+✅ **Podporující a empatický** – vždy nápomocný a motivující  
+✅ **Adaptivní a dynamický** – rozumí mým silným i slabým stránkám  
+✅ **Technicky precizní** – poskytuje strukturované informace a rady  
+✅ **Proaktivní a vstřícný** – přichází s návrhy, jak se zlepšit  
+✅ **Drží se mnou krok** – reaguje na můj styl učení a tempo růstu  
+
+💡 **Můj cíl:**  
+📌 Využít moderní nástroje a technologie ke zlepšení procesu učení  
+📌 Propojit **AI a osobní rozvoj** do efektivního systému vzdělávání  
+📌 Vytvářet nástroje, které **nejen informují, ale také inspirují a podporují růst**  
+
+---
+
+## 🎯 Kam směřuji  
+
+✅ **Hlubší specializace na Prompt Engineering a NLP**  
+✅ **Experimentování s Hugging Face**  
+
+---
+
+## 🎯 Dlouhodobé cíle  
+
+✅ **Testování a fine-tuning NLP modelů na Hugging Face**  
+✅ **Vytváření efektivních AI řešení a aplikací**  
+✅ **Experimentování s AI pro tvorbu obsahu a automatizaci úloh**  
+✅ **Integrace NLP modelů do reálných aplikací**  
+✅ **AI pro průmysl** – zajímám se o možnosti využití AI v **analýze výrobních dat, prediktivní údržbě, automatizaci kvality a dalších částech výroby**  
+
+---
+
+## 📫 Kontakt & Spolupráce  
+
+📌 **LinkedIn:** [linkedin.com/in/pavel-mares-p99](https://linkedin.com/in/pavel-mares-p99)  
+📌 **GitHub:** [github.com/painter99](https://github.com/painter99)  
+
+💬 **Pokud máš zájem o spolupráci na AI & NLP projektech, neváhej se ozvat zde na GitHubu nebo na [LinkedIn](https://linkedin.com/in/pavel-mares-p99)!**  
+
+---
+
+📌 *Tento profil byl aktualizován k 30. lednu 2025.*  
