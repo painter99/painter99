@@ -1,52 +1,75 @@
-# 👋 Hi, I'm Pavel
+# 👋 Hi, I'm Pavel  
 
-[🇨🇿 Czech version](https://github.com/painter99/painter99/blob/main/README_CS.md)
+[🇨🇿 Czech version](https://github.com/painter99/painter99/blob/main/README_CS.md)  
 
-After several years of experience in powder coating, I've gained valuable skills in precision and systematic approach to work. These abilities are now helping me in studying software testing, where I mainly focus on quality and security.
-
-### 🎓 Education Completed
-- Junior Tester Certification from Engeto (100 hours)
-  * Course content: introduction and SDLC, terminology, strategies, methods, databases, test plans, Python basics, Git basics, Playwright
-  * Course included: 30 hours of instructor-led training, 70 hours of self-study, and 2 mini-projects
-
-- Cybersecurity Course from ITnetwork (70 hours)
-  * Course content: basic concepts, cryptography, digital signatures, certificate authority, passwords, biometric protection, user accounts, authentication, data encryption, GPG / PGP, backups, espionage techniques, social engineering, SSL security, MITM attacks
-  * Course included: 70 hours of self-study
-
-### 💻 My Experience
-- In testing:
-  * Basics of manual web application testing
-  * First steps with Playwright automation
-  * Working with Postman for API testing
-- In programming and tools:
-  * Python, SQL (testing basics)
-  * Git (basic commands, version control)
-  * Linux (basic terminal operations)
-
-### 🚀 Current Project
-I've created a publicly available project [AI Templates](https://github.com/painter99/ai-templates):
-- Collection of templates for effective AI use in various fields
-- Guides and examples on how to work with AI
-- Documented best practices and principles of ethical AI use
-
-### ✨ What I Can Offer
-- Systematic approach to work and documentation
-- Active problem solving
-- Quick learning of new things
-- Efficient use of modern tools including AI
-- Experience with precision work
-
-### 🎯 Where I'm Heading
-- Looking for my first opportunity in QA/testing
-- Want to gradually specialize in security testing
-- Interested in test automation
-- Preparing for ISTQB certification
-
-### 📫 Positions I'm Interested In
-- Junior QA Tester
-- Junior Software Tester
-- Junior Manual Tester
-- Entry-level positions in testing
+With several years of experience in industrial manufacturing, I have developed **systematic thinking, precision, and analytical skills**, which I now apply in my work with **AI**.  
+My primary focus is **Prompt Engineering**, where I am currently specializing in **NLP**, optimizing language models, and crafting effective prompts.  
 
 ---
-*If you are interested in collaboration or would like to contact me about my projects, don't hesitate to reach out here on GitHub or on [LinkedIn](https://linkedin.com/in/pavel-mares-p99).*
+
+## 🎓 My Background  
+### 🔹 Certifications and Courses  
+
+✅ **Junior Tester Certification – Engeto (100 hours)**  
+📌 **Topics Covered:** SDLC, testing strategies, databases, test plans, Python, Git, Playwright  
+📌 **Training:** 30 hours with instructors, 70 hours of self-study, 2 mini-projects  
+
+✅ **Cybersecurity Course – ITnetwork (70 hours)**  
+📌 **Topics Covered:** Cryptography, passwords, encryption, SSL security, MITM attacks, social engineering  
+📌 **Self-Study:** 70 hours  
+
+---
+
+## 🚀 What I'm Currently Working On  
+
+🔹 **Optimizing prompts for AI models** – improving model performance and response accuracy  
+🔹 **Developing an AI mentor** – I have created a **personalized AI framework** that helps me learn and grow efficiently  
+
+---
+
+## 📌 My Journey to a Personal AI Mentor  
+
+I have always looked for ways to **learn more effectively, stay organized, and receive better feedback**.  
+This led to the creation of my **personal AI mentor** – a guide that **keeps pace with me, adapts to my needs, and is always available**.  
+
+📌 **What does an ideal mentor mean to me?**  
+✅ **Supportive and empathetic** – always helpful and motivating  
+✅ **Adaptive and dynamic** – understands my strengths and weaknesses  
+✅ **Technically precise** – provides structured information and guidance  
+✅ **Proactive and responsive** – suggests ways to improve  
+✅ **Keeps up with me** – adapts to my learning style and growth pace  
+
+💡 **My Goal:**  
+📌 Utilize modern tools and technologies to enhance the learning process  
+📌 Connect **AI and personal development** into an effective education system  
+📌 Create tools that **not only inform but also inspire and support growth**  
+
+---
+
+## 🎯 Where I Am Heading  
+
+✅ **Deeper specialization in Prompt Engineering and NLP**  
+✅ **Experimenting with Hugging Face**  
+
+---
+
+## 🎯 Long-Term Goals  
+
+✅ **Testing and fine-tuning NLP models on Hugging Face**  
+✅ **Creating effective AI solutions and applications**  
+✅ **Experimenting with AI for content generation and task automation**  
+✅ **Integrating NLP models into real-world applications**  
+✅ **AI for Industry** – I am interested in leveraging AI for **manufacturing data analysis, predictive maintenance, quality automation, and other industrial applications**  
+
+---
+
+## 📫 Contact & Collaboration  
+
+📌 **LinkedIn:** [linkedin.com/in/pavel-mares-p99](https://linkedin.com/in/pavel-mares-p99)  
+📌 **GitHub:** [github.com/painter99](https://github.com/painter99)  
+
+💬 **If you are interested in collaborating on AI & NLP projects, feel free to reach out via GitHub or [LinkedIn](https://linkedin.com/in/pavel-mares-p99)!**  
+
+---
+
+📌 *This profile was last updated on January 30, 2025.*  
