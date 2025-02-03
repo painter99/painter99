@@ -1,75 +1,95 @@
-# 👋 Hi, I'm Pavel  
+# 👋 Welcome to My GitHub Profile!
 
-[🇨🇿 Czech version](https://github.com/painter99/painter99/blob/main/README_CS.md)  
+[🇨🇿 Česká verze](https://github.com/painter99/painter99/blob/main/README_CS.md)
 
-With several years of experience in industrial manufacturing, I have developed **systematic thinking, precision, and analytical skills**, which I now apply in my work with **AI**.  
-My primary focus is **Prompt Engineering**, where I am currently specializing in **NLP**, optimizing language models, and crafting effective prompts.  
+🚀 **QA & AI Testing | Prompt Engineering | AI-Powered Mentoring | NLP Evaluation**
+
+> "I believe that the best learning happens when I do something I enjoy. IT and AI interest me, motivate me, and make sense to me – that’s why I pursue them and develop myself naturally."
+
+🎯 **I see IT as an opportunity for meaningful work that fulfills me. I am actively learning in QA and AI testing, exploring ways to connect them with practical applications.**
+
+## 🌟 Current Focus (Q1 2025)
+
+I am currently developing my knowledge in several key areas:
+- Preparing for ISTQB CTFL certification
+- Deepening experience in AI testing and model evaluation
+- Experimenting with advanced prompt engineering techniques
+- Gradually expanding my technical foundation (Python, SQL)
+
+## 🎯 My Projects and Experiments
+
+### AI Templates – Open-source toolkit for testing and optimizing AI interactions
+🔗 **[GitHub repo](https://github.com/painter99/ai-templates)**
+- A collection of tools for efficient prompt testing and optimization
+- Evaluation and refinement of prompts for different AI models
+- Experiments with robustness and bias detection
+- Testing various AI models and text generation approaches
+
+*AI Templates helped me gain a deeper understanding of prompt engineering and AI model evaluation. This naturally led to the further development of the concept in the ELEVATE project.*
+
+### ELEVATE – AI-powered mentoring system (in development)
+- Personalized educational framework
+- Planned implementation in Python
+
+*[ELEVATE](https://chatgpt.com/g/g-67897b48ea548191849fecba9ac320a2-elevate) combines experiences from AI Templates with the vision of personalized education through AI.*
+
+## 💡 Technical Skills
+
+### Current Skills
+- **Prompt Engineering** (Intermediate – example optimization, iterative improvement)
+- **AI Model Evaluation** (bias detection & robustness testing)
+- **NLP Experiments** (basic work with language models)
+
+### Certifications and Courses
+- **Certified Junior Tester (Engeto)** - 100 hours
+  * SDLC, testing, Python basics
+  * Git, Playwright, practical projects
+- **Cybersecurity (ITnetwork)** - 70 hours
+  * Cryptography, risk analysis, security
+
+### Development Plan
+
+✅ **Short-Term Goals:**
+- ISTQB certification
+- Gradually learning Python and SQL in the context of QA and AI testing
+- Exploring NLP models for AI evaluation
+
+✅ **Mid-Term Goals:**
+- Working with DSPy and AI orchestration
+- Transformer models and their fine-tuning
+- Deepening knowledge in AI model evaluation
+
+✅ **Long-Term Goals:**
+- Advanced NLP techniques for AI testing
+- Implementation of complex AI systems
+- Integration of AI orchestration into mentoring
+
+> "This plan is indicative and will adapt based on experience and priorities."
+
+## 🎯 Career Direction
+
+My path is heading in two main directions:
+
+### AI-powered / AI-driven Mentoring
+Based on my own learning experience, I know how AI can personalize education and tailor content to each student’s individual needs.
+- Adaptive educational systems
+- Personalized mentoring using AI
+- Practical application of NLP in education
+
+### AI in Manufacturing
+With experience in the manufacturing environment, I have a unique perspective on how AI can help in industrial applications.
+- Process automation and quality control
+- Predictive maintenance and data analysis
+- Optimization of manufacturing processes
+
+## 📫 Contact and Collaboration
+
+🔗 **GitHub:** [github.com/painter99](https://github.com/painter99)  
+🔗 **LinkedIn:** [Pavel Mareš](https://linkedin.com/in/pavel-mares-p99)
+
+💬 **Open to collaboration in AI testing, QA, and prompt engineering!**
 
 ---
 
-## 🎓 My Background  
-### 🔹 Certifications and Courses  
-
-✅ **Junior Tester Certification – Engeto (100 hours)**  
-📌 **Topics Covered:** SDLC, testing strategies, databases, test plans, Python, Git, Playwright  
-📌 **Training:** 30 hours with instructors, 70 hours of self-study, 2 mini-projects  
-
-✅ **Cybersecurity Course – ITnetwork (70 hours)**  
-📌 **Topics Covered:** Cryptography, passwords, encryption, SSL security, MITM attacks, social engineering  
-📌 **Self-Study:** 70 hours  
-
----
-
-## 🚀 What I'm Currently Working On  
-
-🔹 **Optimizing prompts for AI models** – improving model performance and response accuracy  
-🔹 **Developing an AI mentor** – I have created a **personalized AI framework** that helps me learn and grow efficiently  
-
----
-
-## 📌 My Journey to a Personal AI Mentor  
-
-I have always looked for ways to **learn more effectively, stay organized, and receive better feedback**.  
-This led to the creation of my **personal AI mentor** – a guide that **keeps pace with me, adapts to my needs, and is always available**.  
-
-📌 **What does an ideal mentor mean to me?**  
-✅ **Supportive and empathetic** – always helpful and motivating  
-✅ **Adaptive and dynamic** – understands my strengths and weaknesses  
-✅ **Technically precise** – provides structured information and guidance  
-✅ **Proactive and responsive** – suggests ways to improve  
-✅ **Keeps up with me** – adapts to my learning style and growth pace  
-
-💡 **My Goal:**  
-📌 Utilize modern tools and technologies to enhance the learning process  
-📌 Connect **AI and personal development** into an effective education system  
-📌 Create tools that **not only inform but also inspire and support growth**  
-
----
-
-## 🎯 Where I Am Heading  
-
-✅ **Deeper specialization in Prompt Engineering and NLP**  
-✅ **Experimenting with Hugging Face**  
-
----
-
-## 🎯 Long-Term Goals  
-
-✅ **Testing and fine-tuning NLP models on Hugging Face**  
-✅ **Creating effective AI solutions and applications**  
-✅ **Experimenting with AI for content generation and task automation**  
-✅ **Integrating NLP models into real-world applications**  
-✅ **AI for Industry** – I am interested in leveraging AI for **manufacturing data analysis, predictive maintenance, quality automation, and other industrial applications**  
-
----
-
-## 📫 Contact & Collaboration  
-
-📌 **LinkedIn:** [linkedin.com/in/pavel-mares-p99](https://linkedin.com/in/pavel-mares-p99)  
-📌 **GitHub:** [github.com/painter99](https://github.com/painter99)  
-
-💬 **If you are interested in collaborating on AI & NLP projects, feel free to reach out via GitHub or [LinkedIn](https://linkedin.com/in/pavel-mares-p99)!**  
-
----
-
-📌 *This profile was last updated on January 30, 2025.*  
+*Last updated: Q1 2025  
+This profile continuously evolves according to my professional growth and current interests.*
