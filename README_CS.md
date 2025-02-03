@@ -1,75 +1,95 @@
-# 👋 Ahoj, jsem Pavel
+# 👋 Vítej na mém GitHub profilu!
 
 [🇬🇧 English version](https://github.com/painter99/painter99/blob/main/README.md)
 
-Po několikaleté praxi v průmyslové výrobě jsem si osvojil **systematičnost, preciznost a analytické myšlení**, které nyní využívám při práci s **AI**.  
-Mým hlavním zaměřením je **Prompt Engineering**, kde se aktuálně soustředím na **NLP**, optimalizaci jazykových modelů a tvorbu efektivních promptů.
+🚀 **QA & AI Testing | Prompt Engineering | AI-Powered Mentoring | NLP Evaluace**
+
+> „Věřím, že nejlepší učení přichází tehdy, když dělám něco, co mě baví. IT a AI mě zajímají, motivují a dávají mi smysl – proto se jim věnuji a rozvíjím se v nich přirozeně."
+
+🎯 **V IT vidím příležitost k smysluplné práci, která mě naplňuje. Aktivně se vzdělávám v QA a AI testování, kde zkoumám možnosti jejich propojení s praktickými aplikacemi.**
+
+## 🌟 Aktuální zaměření (Q1 2025)
+
+Momentálně rozvíjím své znalosti v několika klíčových oblastech:
+- Příprava na ISTQB CTFL certifikaci
+- Prohlubování zkušeností v AI testování a evaluaci modelů
+- Experimentování s pokročilými technikami prompt engineeringu
+- Postupné rozšiřování technického základu (Python, SQL)
+
+## 🎯 Moje projekty a experimenty
+
+### AI Templates – Open-source sada pro testování a optimalizaci AI interakcí
+🔗 **[GitHub repo](https://github.com/painter99/ai-templates)**
+- Kolekce nástrojů pro efektivní testování a optimalizaci promptů
+- Evaluace a optimalizace promptů pro různé AI modely
+- Experimenty s robustností a bias detekcí
+- Testování různých AI modelů a přístupů k generování textu
+
+*AI Templates mi pomohly hlouběji porozumět prompt engineeringu a evaluaci AI modelů. To přirozeně vedlo k dalšímu rozvoji konceptu v projektu ELEVATE.*
+
+### ELEVATE – AI-powered mentoringový systém (ve vývoji)
+- Personalizovaný vzdělávací framework
+- Plánovaná implementace v Pythonu
+
+*[ELEVATE](https://chatgpt.com/g/g-67897b48ea548191849fecba9ac320a2-elevate) spojuje zkušenosti z AI Templates s vizí personalizovaného vzdělávání pomocí AI.*
+
+## 💡 Technické dovednosti
+
+### Současné dovednosti
+- **Prompt Engineering** (mírně pokročilý – optimalizace příkladů, iterativní vylepšování)
+- **Evaluace AI modelů** (bias detection & robustness testing)
+- **Experimenty s NLP** (základní práce s jazykovými modely)
+
+### Certifikace a kurzy
+- **Certifikovaný Junior Tester (Engeto)** - 100 hodin
+  * SDLC, testování, Python základy
+  * Git, Playwright, praktické projekty
+- **Kybernetická bezpečnost (ITnetwork)** - 70 hodin
+  * Kryptografie, analýza rizik, zabezpečení
+
+### Plánovaný rozvoj
+
+✅ **Krátkodobé cíle:**
+- ISTQB certifikace
+- Postupné seznamování s Pythonem a SQL v kontextu QA a AI testování
+- Zkoumání možností NLP modelů pro AI evaluaci
+
+✅ **Střednědobé cíle:**
+- Práce s DSPy a AI orchestrací
+- Transformer modely a jejich fine-tuning
+- Prohlubování znalostí v AI evaluaci modelů
+
+✅ **Dlouhodobé cíle:**
+- Pokročilé NLP techniky pro testování AI
+- Implementace komplexních AI systémů
+- Integrace AI orchestrace do mentoringu
+
+> „Tento plán je orientační a bude se přizpůsobovat podle zkušeností a priorit.“
+
+## 🎯 Profesní směřování
+
+Moje cesta se ubírá dvěma hlavními směry:
+
+### AI-powered / AI-driven mentoring
+Díky vlastní zkušenosti s učením vím, jak může AI personalizovat vzdělávání a přizpůsobit obsah individuálním potřebám každého studenta.
+- Adaptivní vzdělávací systémy
+- Personalizovaný mentoring pomocí AI
+- Praktické využití NLP ve vzdělávání
+
+### AI ve výrobě
+Díky zkušenostem z výrobního prostředí mám jedinečný pohled na to, jak může AI pomoci v průmyslových aplikacích.
+- Automatizace procesů a kontrola kvality
+- Prediktivní údržba a analýza dat
+- Optimalizace výrobních procesů
+
+## 📫 Kontakt a spolupráce
+
+🔗 **GitHub:** [github.com/painter99](https://github.com/painter99)  
+🔗 **LinkedIn:** [Pavel Mareš](https://linkedin.com/in/pavel-mares-p99)
+
+💬 **Otevřen spolupráci v oblasti AI testování, QA a prompt engineeringu!**
 
 ---
 
-## 🎓 Co už mám za sebou  
-### 🔹 Certifikace a kurzy  
-
-✅ **Certifikace Junior Tester – Engeto (100 hodin)**  
-📌 **Obsah:** SDLC, testovací strategie, databáze, testovací plány, Python, Git, Playwright  
-📌 **Výuka:** 30 hodin s lektory, 70 hodin samostudia, 2 miniprojekty  
-
-✅ **Kurz Kybernetické bezpečnosti – ITnetwork (70 hodin)**  
-📌 **Obsah:** Kryptografie, hesla, šifrování, zabezpečení SSL, MITM útoky, sociální inženýrství  
-📌 **Samostudium:** 70 hodin  
-
----
-
-## 🚀 Na čem teď pracuji  
-
-🔹 **Optimalizace promptů pro AI modely** – zlepšování výkonu a přesnosti odpovědí  
-🔹 **Vývoj AI mentora** – vytvořil jsem **personalizovaný AI framework**, který mi pomáhá efektivně se učit a rozvíjet  
-
----
-
-## 📌 Moje cesta k osobnímu mentorovi  
-
-Odjakživa jsem hledal způsob, jak **se učit efektivněji, lépe se organizovat a získat kvalitní zpětnou vazbu**.  
-Tak vznikla **myšlenka osobního AI mentora** – průvodce, který mi pomáhá **držet tempo, přizpůsobit se mým potřebám a být vždy k dispozici**.  
-
-📌 **Co pro mě znamená ideální mentor?**  
-✅ **Podporující a empatický** – vždy nápomocný a motivující  
-✅ **Adaptivní a dynamický** – rozumí mým silným i slabým stránkám  
-✅ **Technicky precizní** – poskytuje strukturované informace a rady  
-✅ **Proaktivní a vstřícný** – přichází s návrhy, jak se zlepšit  
-✅ **Drží se mnou krok** – reaguje na můj styl učení a tempo růstu  
-
-💡 **Můj cíl:**  
-📌 Využít moderní nástroje a technologie ke zlepšení procesu učení  
-📌 Propojit **AI a osobní rozvoj** do efektivního systému vzdělávání  
-📌 Vytvářet nástroje, které **nejen informují, ale také inspirují a podporují růst**  
-
----
-
-## 🎯 Kam směřuji  
-
-✅ **Hlubší specializace na Prompt Engineering a NLP**  
-✅ **Experimentování s Hugging Face**  
-
----
-
-## 🎯 Dlouhodobé cíle  
-
-✅ **Testování a fine-tuning NLP modelů na Hugging Face**  
-✅ **Vytváření efektivních AI řešení a aplikací**  
-✅ **Experimentování s AI pro tvorbu obsahu a automatizaci úloh**  
-✅ **Integrace NLP modelů do reálných aplikací**  
-✅ **AI pro průmysl** – zajímám se o možnosti využití AI v **analýze výrobních dat, prediktivní údržbě, automatizaci kvality a dalších částech výroby**  
-
----
-
-## 📫 Kontakt & Spolupráce  
-
-📌 **LinkedIn:** [linkedin.com/in/pavel-mares-p99](https://linkedin.com/in/pavel-mares-p99)  
-📌 **GitHub:** [github.com/painter99](https://github.com/painter99)  
-
-💬 **Pokud máš zájem o spolupráci na AI & NLP projektech, neváhej se ozvat zde na GitHubu nebo na [LinkedIn](https://linkedin.com/in/pavel-mares-p99)!**  
-
----
-
-📌 *Tento profil byl aktualizován k 30. lednu 2025.*  
+*Poslední aktualizace: Q1 2025  
+Tento profil se průběžně vyvíjí podle mého profesního růstu a aktuálních zájmů.*
