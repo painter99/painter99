@@ -4,7 +4,7 @@
 
 🚀 **QA & AI Testing | Prompt Engineering | AI-Powered Mentoring | NLP Evaluation**
 
-> "I believe that the best learning happens when I do something I enjoy. IT and AI interest me, motivate me, and make sense to me – that’s why I pursue them and develop myself naturally."
+> "I believe the best learning comes when I'm doing something I enjoy. IT and AI interest me, motivate me and give me purpose - that's why I pursue them and naturally thrive in them."
 
 🎯 **I see IT as an opportunity for meaningful work that fulfills me. I am actively learning in QA and AI testing, exploring ways to connect them with practical applications.**
 
