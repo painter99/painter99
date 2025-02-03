@@ -4,7 +4,7 @@
 
 🚀 **QA & AI Testing | Prompt Engineering | AI-Powered Mentoring | NLP Evaluace**
 
-> „Věřím, že nejlepší učení přichází tehdy, když dělám něco, co mě baví. IT a AI mě zajímají, motivují a dávají mi smysl – proto se jim věnuji a rozvíjím se v nich přirozeně."
+> „Věřím, že nejlepší učení přichází, když dělám něco, co mě baví. IT a AI mě zajímají, motivují a dávají mi smysl – proto se jim věnuji a přirozeně se v nich rozvíjím."
 
 🎯 **V IT vidím příležitost k smysluplné práci, která mě naplňuje. Aktivně se vzdělávám v QA a AI testování, kde zkoumám možnosti jejich propojení s praktickými aplikacemi.**
 
