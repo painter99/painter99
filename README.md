@@ -27,11 +27,12 @@ I am currently developing my knowledge in several key areas:
 
 *AI Templates helped me gain a deeper understanding of prompt engineering and AI model evaluation. This naturally led to the further development of the concept in the ELEVATE project.*
 
-### ELEVATE – AI-powered mentoring system (in development)
+### ELEVATE Academic – AI-powered mentoring system (in development)
+🔗 **[GitHub repo](https://github.com/painter99/ELEVATE-Academic)
 - Personalized educational framework
 - Planned implementation in Python
 
-*[ELEVATE](https://chatgpt.com/g/g-67897b48ea548191849fecba9ac320a2-elevate) combines experiences from AI Templates with the vision of personalized education through AI.*
+*CustomGPT [ELEVATE](https://chatgpt.com/g/g-67897b48ea548191849fecba9ac320a2-elevate) combines experiences from AI Templates with the vision of personalized education through AI.*
 
 ## 💡 Technical Skills
 
