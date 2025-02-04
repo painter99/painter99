@@ -28,7 +28,7 @@ Momentálně rozvíjím své znalosti v několika klíčových oblastech:
 *AI Templates mi pomohly hlouběji porozumět prompt engineeringu a evaluaci AI modelů. To přirozeně vedlo k dalšímu rozvoji konceptu v projektu ELEVATE.*
 
 ### ELEVATE – AI-powered mentoringový systém (ve vývoji)
-🔗 **[GitHub repo](https://github.com/painter99/ELEVATE-Academic)
+🔗 **[GitHub repo](https://github.com/painter99/ELEVATE-Academic)**
 - Personalizovaný vzdělávací framework
 - Plánovaná implementace v Pythonu
 
