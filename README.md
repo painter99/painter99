@@ -1,5 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
+![](https://komarev.com/ghpvc/?username=painter99&color=blue&style=flat-square)
+
 [🇨🇿 Česká verze](https://github.com/painter99/painter99/blob/main/README_CS.md)
 
 🚀 **QA & AI Testing | Prompt Engineering | AI-Powered Mentoring | NLP Evaluation**
