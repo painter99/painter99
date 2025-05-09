@@ -40,7 +40,7 @@ I am currently developing my knowledge in several key areas:
 🔗 **[GitHub repo](https://github.com/painter99/PromptAlchymista)**
 - An experimental system prompt designed to assist in the creation, analysis, and optimization of LLM prompts, with a focus on robust system prompts.
 - Features intelligent knowledge updates, XML-based structural design, and adaptive communication.
-- Currently in Alpha (v0.1.2-alpha), primarily tested with Claude 3.7 Sonnet.
+- Currently in Alpha, primarily tested with Claude 3.7 Sonnet.
 
 *PromptAlchymista represents a deeper dive into the architecture of AI instructions, building upon a systematic and dynamically informed approach to prompt engineering.*
 
