@@ -35,10 +35,10 @@ Momentálně rozvíjím své znalosti v několika klíčových oblastech:
 *CustomGPT [ELEVATE](https://chatgpt.com/g/g-67897b48ea548191849fecba9ac320a2-elevate) spojuje zkušenosti z AI Templates s vizí personalizovaného vzdělávání pomocí AI.*
 
 ### PromptAlchymista ⚗️ – Pokročilý systémový prompt pro AI asistovaný prompt engineering
-🔗 **[GitHub repozitář](https://github.com/painter99/PromptAlchymista)**
+🔗 **[GitHub repo](https://github.com/painter99/PromptAlchymista)**
 - Experimentální systémový prompt navržený pro asistenci při tvorbě, analýze a optimalizaci LLM promptů, se zaměřením na robustní systémové prompty.
 - Vyznačuje se inteligentní aktualizací znalostí, strukturálním designem pomocí XML a adaptivní komunikací.
-- Aktuálně ve fázi Alpha (v0.1.2-alpha), primárně testován s Claude 3.7 Sonnet.
+- Aktuálně ve fázi Alpha, primárně testován s Claude 3.7 Sonnet.
 
 *PromptAlchymista představuje hlubší ponor do architektury AI instrukcí, stavějící na systematickém a dynamicky informovaném přístupu k prompt engineeringu.*
 
