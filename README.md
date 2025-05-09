@@ -36,6 +36,15 @@ I am currently developing my knowledge in several key areas:
 
 *CustomGPT [ELEVATE](https://chatgpt.com/g/g-67897b48ea548191849fecba9ac320a2-elevate) combines experiences from AI Templates with the vision of personalized education through AI.*
 
+### PromptAlchymista ⚗️ – Advanced System Prompt for AI-Assisted Prompt Engineering
+🔗 **[GitHub repo](https://github.com/painter99/PromptAlchymista)**
+- An experimental system prompt designed to assist in the creation, analysis, and optimization of LLM prompts, with a focus on robust system prompts.
+- Features intelligent knowledge updates, XML-based structural design, and adaptive communication.
+- Currently in Alpha (v0.1.2-alpha), primarily tested with Claude 3.7 Sonnet.
+
+*PromptAlchymista represents a deeper dive into the architecture of AI instructions, building upon a systematic and dynamically informed approach to prompt engineering.*
+
+
 ## 💡 Technical Skills
 
 ### Current Skills
