@@ -38,9 +38,9 @@ I am currently developing my knowledge in several key areas:
 
 ### PromptAlchymista ⚗️ – Advanced System Prompt for AI-Assisted Prompt Engineering
 🔗 **[GitHub repo](https://github.com/painter99/PromptAlchymista)**
-- An experimental system prompt designed to assist in the creation, analysis, and optimization of LLM prompts, with a focus on robust system prompts.
-- Features intelligent knowledge updates, XML-based structural design, and adaptive communication.
-- Currently in Alpha, primarily tested with Claude 3.7 Sonnet.
+- A comprehensive system prompt designed to assist in the creation, analysis, and optimization of LLM prompts, aiming for robust and effective solutions.
+- Key features include: dynamic knowledge updates, thoughtful structural design (especially using XML), and adaptive communication with the user.
+- Currently in **Release Candidate (v1.0.0-rc1)** phase, primarily optimized and tested with **Google Gemini 2.5 Flash**.
 
 *PromptAlchymista represents a deeper dive into the architecture of AI instructions, building upon a systematic and dynamically informed approach to prompt engineering.*
 
