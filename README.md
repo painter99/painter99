@@ -53,17 +53,15 @@
 
 ### Development Plan
 
-✅ **Short-Term Goals:**
+**Mid-Term Goals:**
 - ISTQB certification
 - Gradually learning Python and SQL in the context of QA and AI testing
 - Exploring NLP models for AI evaluation
-
-✅ **Mid-Term Goals:**
 - Working with DSPy and AI orchestration
 - Transformer models and their fine-tuning
 - Deepening knowledge in AI model evaluation
 
-✅ **Long-Term Goals:**
+**Long-Term Goals:**
 - Advanced NLP techniques for AI testing
 - Implementation of complex AI systems
 - Integration of AI orchestration into mentoring
