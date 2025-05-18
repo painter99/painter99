@@ -36,9 +36,9 @@ Momentálně rozvíjím své znalosti v několika klíčových oblastech:
 
 ### PromptAlchymista ⚗️ – Pokročilý systémový prompt pro AI asistovaný prompt engineering
 🔗 **[GitHub repo](https://github.com/painter99/PromptAlchymista)**
-- Experimentální systémový prompt navržený pro asistenci při tvorbě, analýze a optimalizaci LLM promptů, se zaměřením na robustní systémové prompty.
-- Vyznačuje se inteligentní aktualizací znalostí, strukturálním designem pomocí XML a adaptivní komunikací.
-- Aktuálně ve fázi Alpha, primárně testován s Claude 3.7 Sonnet.
+- Komplexní systémový prompt navržený k asistenci při tvorbě, analýze a optimalizaci LLM promptů s cílem dosáhnout robustních a efektivních řešení.
+- Klíčové vlastnosti zahrnují: dynamickou aktualizaci znalostí, promyšlený strukturální design (zejména pomocí XML) a adaptivní komunikaci s uživatelem.
+- Aktuálně ve fázi **Release Candidate (v1.0.0-rc1)**, primárně optimalizován a testován s **Google Gemini 2.5 Flash**.
 
 *PromptAlchymista představuje hlubší ponor do architektury AI instrukcí, stavějící na systematickém a dynamicky informovaném přístupu k prompt engineeringu.*
 
@@ -58,17 +58,15 @@ Momentálně rozvíjím své znalosti v několika klíčových oblastech:
 
 ### Plánovaný rozvoj
 
-✅ **Krátkodobé cíle:**
+**Střednědobé cíle:**
 - ISTQB certifikace
 - Postupné seznamování s Pythonem a SQL v kontextu QA a AI testování
 - Zkoumání možností NLP modelů pro AI evaluaci
-
-✅ **Střednědobé cíle:**
 - Práce s DSPy a AI orchestrací
 - Transformer modely a jejich fine-tuning
 - Prohlubování znalostí v AI evaluaci modelů
 
-✅ **Dlouhodobé cíle:**
+**Dlouhodobé cíle:**
 - Pokročilé NLP techniky pro testování AI
 - Implementace komplexních AI systémů
 - Integrace AI orchestrace do mentoringu
@@ -100,5 +98,5 @@ Díky zkušenostem z výrobního prostředí mám jedinečný pohled na to, jak 
 
 ---
 
-*Poslední aktualizace: Q1 2025  
+*Poslední aktualizace: Q2 2025  
 Tento profil se průběžně vyvíjí podle mého profesního růstu a aktuálních zájmů.*
