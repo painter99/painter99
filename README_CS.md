@@ -8,14 +8,6 @@
 
 🎯 **V IT vidím příležitost k smysluplné práci, která mě naplňuje. Aktivně se vzdělávám v QA a AI testování, kde zkoumám možnosti jejich propojení s praktickými aplikacemi.**
 
-## 🌟 Aktuální zaměření (Q1 2025)
-
-Momentálně rozvíjím své znalosti v několika klíčových oblastech:
-- Příprava na ISTQB CTFL certifikaci
-- Prohlubování zkušeností v AI testování a evaluaci modelů
-- Experimentování s pokročilými technikami prompt engineeringu
-- Postupné rozšiřování technického základu (Python, SQL)
-
 ## 🎯 Moje projekty a experimenty
 
 ### AI Templates – Open-source sada pro testování a optimalizaci AI interakcí
