@@ -10,14 +10,6 @@
 
 🎯 **I see IT as an opportunity for meaningful work that fulfills me. I am actively learning in QA and AI testing, exploring ways to connect them with practical applications.**
 
-## 🌟 Current Focus (Q1 2025)
-
-I am currently developing my knowledge in several key areas:
-- Preparing for ISTQB CTFL certification
-- Deepening experience in AI testing and model evaluation
-- Experimenting with advanced prompt engineering techniques
-- Gradually expanding my technical foundation (Python, SQL)
-
 ## 🎯 My Projects and Experiments
 
 ### AI Templates – Open-source toolkit for testing and optimizing AI interactions
