@@ -30,7 +30,7 @@
 🔗 **[GitHub repo](https://github.com/painter99/PromptAlchymista)**
 - Komplexní systémový prompt navržený k asistenci při tvorbě, analýze a optimalizaci LLM promptů s cílem dosáhnout robustních a efektivních řešení.
 - Klíčové vlastnosti zahrnují: dynamickou aktualizaci znalostí, promyšlený strukturální design (zejména pomocí XML) a adaptivní komunikaci s uživatelem.
-- Aktuálně ve fázi **Release Candidate (v1.0.0-rc1)**, primárně optimalizován a testován s **Google Gemini 2.5 Flash**.
+- Aktuálně ve fázi **Release Candidate**, primárně optimalizován a testován s **Google Gemini 2.5 Flash & Pro**.
 
 *PromptAlchymista představuje hlubší ponor do architektury AI instrukcí, stavějící na systematickém a dynamicky informovaném přístupu k prompt engineeringu.*
 
