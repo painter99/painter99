@@ -60,6 +60,12 @@ Through hands-on experimentation, I'm learning to design:
 - `Prompt Chaining` (sequential AI processing)  
 - `Manual Agent Orchestration` (using `@` mentions)  
 
+**Next Step Exploration: MindStudio**  
+Planning to expand my playground to MindStudio to explore:
+- Automated workflow conversion  
+- UI design for AI applications  
+- Production deployment scenarios  
+
 **Curiosity Areas** (when time permits):  
 - QA methodologies (ISTQB principles, test automation)  
 - Python & SQL for scripting and data analysis  
