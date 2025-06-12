@@ -51,20 +51,23 @@
 
 ### Development Plan
 
-**Mid-Term Goals:**
-- ISTQB certification
-- Gradually learning Python and SQL in the context of QA and AI testing
-- Exploring NLP models for AI evaluation
-- Working with DSPy and AI orchestration
-- Transformer models and their fine-tuning
-- Deepening knowledge in AI model evaluation
+#### Real-Time Experiments & Focus
 
-**Long-Term Goals:**
-- Advanced NLP techniques for AI testing
-- Implementation of complex AI systems
-- Integration of AI orchestration into mentoring
+**Core Playground: TypingMind**  
+I'm currently exploring the boundaries of no-code AI development using TypingMind.  
+Through hands-on experimentation, I'm learning to design:
+- `Multi-Agent Workflows` (complex task distribution)  
+- `Prompt Chaining` (sequential AI processing)  
+- `Manual Agent Orchestration` (using `@` mentions)  
 
-> "This plan is indicative and will adapt based on experience and priorities."
+**Curiosity Areas** (when time permits):  
+- QA methodologies (ISTQB principles, test automation)  
+- Python & SQL for scripting and data analysis  
+- NLP model evaluation techniques  
+- AI orchestration tools (DSPy, LangChain)  
+- Transformer architectures and fine-tuning  
+
+> This space evolves organically with my journey – it's a live log of exploration, not a rigid roadmap.
 
 ## 🎯 Career Direction
 
