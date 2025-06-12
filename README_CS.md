@@ -50,20 +50,23 @@
 
 ### Plánovaný rozvoj
 
-**Střednědobé cíle:**
-- ISTQB certifikace
-- Postupné seznamování s Pythonem a SQL v kontextu QA a AI testování
-- Zkoumání možností NLP modelů pro AI evaluaci
-- Práce s DSPy a AI orchestrací
-- Transformer modely a jejich fine-tuning
-- Prohlubování znalostí v AI evaluaci modelů
+#### Aktuální experimenty a fokus
 
-**Dlouhodobé cíle:**
-- Pokročilé NLP techniky pro testování AI
-- Implementace komplexních AI systémů
-- Integrace AI orchestrace do mentoringu
+**Hlavní experimentální platforma: TypingMind**  
+Momentálně prozkoumávám možnosti no-code vývoje AI v platformě TypingMind.  
+Díky praktickým experimentům se učím navrhovat:
+- `Multi-Agent Workflows` (komplexní distribuce úkolů)
+- `Prompt Chaining` (sekvenční zpracování AI)
+- `Manual Agent Orchestration` (manuální orchestrace agentů pomocí zmínek `@`)
 
-> „Tento plán je orientační a bude se přizpůsobovat podle zkušeností a priorit.“
+**Oblasti zájmu** (podle časových možností):
+- Metodiky QA (principy ISTQB, automatizace testů)
+- Python & SQL pro skriptování a analýzu dat
+- Techniky evaluace NLP modelů
+- Nástroje pro AI orchestrace (DSPy, LangChain)
+- Architektury transformerů a jejich fine-tuning
+
+> Tento prostor se organicky vyvíjí s mou cestou – je to živý deník zkoumání, ne pevný plán.
 
 ## 🎯 Profesní směřování
 
