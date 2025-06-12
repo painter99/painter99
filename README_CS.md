@@ -48,25 +48,31 @@
 - **Kybernetická bezpečnost (ITnetwork)** - 70 hodin
   * Kryptografie, analýza rizik, zabezpečení
 
-### Plánovaný rozvoj
+### Vývojový Plán
 
-#### Aktuální experimenty a fokus
+#### Průběžné Experimenty & Zaměření
 
-**Hlavní experimentální platforma: TypingMind**  
-Momentálně prozkoumávám možnosti no-code vývoje AI v platformě TypingMind.  
-Díky praktickým experimentům se učím navrhovat:
-- `Multi-Agent Workflows` (komplexní distribuce úkolů)
-- `Prompt Chaining` (sekvenční zpracování AI)
-- `Manual Agent Orchestration` (manuální orchestrace agentů pomocí zmínek `@`)
+**Hlavní Hřiště: TypingMind**  
+Aktuálně zkoumám možnosti no-code AI vývoje pomocí TypingMind.  
+Praktickými experimenty se učím navrhovat:
+- `Multi-Agentní Workflow` (složité rozdělování úkolů)  
+- `Řetězení Promptů` (sekvenční AI zpracování)  
+- `Manuální Orchestraci Agentů` (pomocí `@` zmínek)  
 
-**Oblasti zájmu** (podle časových možností):
-- Metodiky QA (principy ISTQB, automatizace testů)
-- Python & SQL pro skriptování a analýzu dat
-- Techniky evaluace NLP modelů
-- Nástroje pro AI orchestrace (DSPy, LangChain)
-- Architektury transformerů a jejich fine-tuning
+**Další Krok: MindStudio**  
+Plánuji rozšířit své zkoumání na MindStudio pro:
+- Automatizovanou konverzi workflow  
+- Návrh UI pro AI aplikace  
+- Scénáře produkčního nasazení  
 
-> Tento prostor se organicky vyvíjí s mou cestou – je to živý deník zkoumání, ne pevný plán.
+**Oblasti Zájmu** (když to čas dovolí):  
+- Metodiky testování (principy ISTQB, automatizace testů)  
+- Python & SQL pro skriptování a analýzu dat  
+- Techniky evaluace NLP modelů  
+- Nástroje pro orchestraci AI (DSPy, LangChain)  
+- Architektury transformátorů a fine-tuning  
+
+> Tento prostor se organicky vyvíjí s mou cestou – je to živý záznam objevování, nikoli rigidní plán.
 
 ## 🎯 Profesní směřování
 
