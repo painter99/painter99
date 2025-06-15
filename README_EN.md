@@ -8,66 +8,70 @@
 [![Systems Design](https://img.shields.io/badge/Methodology-Systems_Design-333333?style=for-the-badge)](https://github.com/painter99)
 [![Process Automation](https://img.shields.io/badge/Specialty-Process_Automation-orange?style=for-the-badge)](https://github.com/painter99)
 
-> "I believe the best learning comes when I'm doing something I enjoy. IT and AI interest me, motivate me, and give me purpose—that's why I naturally thrive in them."
+> "I believe the best learning comes from doing what you love. IT and artificial intelligence provide me with a sense of purpose and motivation, creating a natural drive for growth and development."
 
 ---
 
-I am an **AI Systems & Process Designer** with a unique perspective from 10+ years in a precision-driven industrial environment. My domain is the design and prototyping of robust, intelligent, and efficient systems.
+I am an **AI Systems & Process Designer** who applies systems thinking and a decade of industrial precision to the design and prototyping of robust, intelligent, and efficient systems.
 
 ### My Philosophy
 
-My approach is built on two pillars that bridge two worlds:
+My approach is built on two pillars that bridge two different worlds:
 
-1.  **Industrial Precision:** A decade in manufacturing, where quality and process discipline were paramount, forms the foundation of my thinking. Every system I design must be reliable, logical, and built on solid ground.
-2.  **Architecture Before Code:** I believe the true value lies in a flawless design and blueprint. That's why I focus on modern no-code/low-code platforms, which allow me to fully dedicate my attention to architecture and logic, thereby delivering functional solutions faster and more effectively.
+1.  **Industrial Precision:** A decade in manufacturing, where quality and process discipline were paramount, forms the foundation of my thinking. Every system I design must be reliable, logical, and built on solid principles.
+2.  **Architecture Before Code:** I believe the true value lies in the perfect blueprint. That's why I focus on modern no-code/low-code platforms and AI agents, allowing me to concentrate on architecture and logic to deliver functional solutions faster and more effectively.
 
 ---
 
 ### 🚀 Featured Projects
 
-Here are examples of my architectural approach in practice.
+Here are some examples of my architectural approach in action.
+
+#### **Adaptive Architecture Generator (AAG) 🏛️ - An Intelligent Architectural Framework**
+*   **Description:** My flagship project and a manifest of my architectural philosophy. AAG is a modular, conversational framework implemented as a suite of advanced system prompts that transform an LLM into a team of specialized AI architects. The system guides users through a structured process, from the initial idea to a detailed technical specification. AAG intelligently selects the depth of analysis (from a quick MVP to an enterprise-level design) and its final module translates the architecture into concrete, implementable tasks for AI coders in platforms like TypingMind or MindStudio.
+*   **Role:** Creator & Lead System Architect.
+*   **Technologies & Concepts:** `Systems Design`, `AI Agent Orchestration`, `Advanced Prompt Engineering`, `Modular Architecture`, `No-Code/Low-Code Prototyping`.
+*   **Status:** In active development.
 
 #### **LifeOS v1.0 - An AI-Powered Personal Operating System**
-*   **Description:** My flagship project—a multi-agent system designed to accelerate personal and professional growth. Its core is a semantic knowledge base (RAG) and a team of specialized AI agents for strategy, risk analysis, and mentoring.
-*   **Role:** System Architect & Designer.
+*   **Description:** A multi-agent system designed to accelerate personal and professional growth. Its core is a semantic knowledge base (RAG) and a team of specialized AI agents for strategy, risk analysis, and mentoring.
+*   **Role:** Architect & System Designer.
 *   **Technologies:** `Systems Thinking`, `AI Agent Orchestration`, `RAG`, `Prototyping`, `TypingMind`, `MindStudio`.
+*   **Status:** In active development.
 
-#### **PromptAlchymista ⚗️ - An Architectural Blueprint for AI Entities**
-*   **Description:** A conceptual framework and a manifesto for a systematic approach to prompt engineering. It defines the identity, ethics, and operational procedures for a robust AI entity in an XML structure.
+#### **PromptAlchymista ⚗️ - An Architectural Blueprint for an AI Entity**
+*   **Description:** A conceptual framework and a manifest for a systematic approach to prompt engineering. It defines the identity, ethics, and operational workflows for a robust AI entity using an XML structure.
 *   **Role:** Conceptual Architect.
 *   **Technologies:** `Prompt Engineering`, `XML`, `Systems Design`.
 *   **Repo:** [github.com/painter99/PromptAlchymista](https://github.com/painter99/PromptAlchymista)
 
-#### **ELEVATE - An Adaptive Learning System Concept**
-*   **Description:** A vision and design for a personalized educational framework that uses AI to adapt content to the individual needs of a student.
-*   **Role:** Conceptual Designer.
-*   **Technologies:** `AI-Powered Mentoring`, `Personalized Learning`.
-*   **Repo:** [github.com/painter99/ELEVATE-Academic](https://github.com/painter99/ELEVATE-Academic)
-
 ---
 
-### 🛠️ Tech Stack & Methodology
+### 🛠️ Core Competencies & Tools
 
-**Core Methodology:**
+**Core Methodologies:**
 *   Systems Thinking & Design
 *   Process Design & Optimization
 *   Blueprint-First Strategy
 *   Rapid Prototyping
 
-**Platforms & Tools:**
-*   **Main:** MindStudio, TypingMind
+**Actively Using:**
+- TypingMind (as my primary interface)
 
-**Areas of Interest & Development:**
-*   Python (for scripting and automation), Git, JSON, XML
-*   AI Agent Orchestration (LangChain, DSPy)
-*   Knowledge Graph & RAG Systems
-*   AI in Manufacturing (Quality Control, Process Automation)
+**Actively Learning:**
+- MindStudio (for prototyping)
+
+**Exploring:**
+- n8n (for process automation)
+
+**Implementation & Automation Technologies:**
+*   Python (for scripting and automation, **often leveraging AI agents to accelerate implementation based on my designs**)
+*   Git, JSON, XML, API
 
 ---
 
 ### 📫 Let's Connect
 
-I am open to collaborating on interesting projects that require deep systems thinking and an innovative approach to problem-solving.
+I am open to collaborating on interesting projects that require systems thinking and an innovative approach to problem-solving.
 
 *   **LinkedIn:** [Pavel Mareš](https://linkedin.com/in/pavel-mares-p99)
-*   **GitHub:** [github.com/painter99](https://github.com/painter99)
