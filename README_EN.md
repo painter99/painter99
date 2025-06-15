@@ -33,7 +33,7 @@ Here are some examples of my architectural approach in action.
 *   **Technologies & Concepts:** `Systems Design`, `AI Agent Orchestration`, `Advanced Prompt Engineering`, `Modular Architecture`, `No-Code/Low-Code Prototyping`.
 *   **Status:** In active development.
 
-#### **LifeOS v1.0 - An AI-Powered Personal Operating System**
+#### **LifeOS - An AI-Powered Personal Operating System**
 *   **Description:** A multi-agent system designed to accelerate personal and professional growth. Its core is a semantic knowledge base (RAG) and a team of specialized AI agents for strategy, risk analysis, and mentoring.
 *   **Role:** Architect & System Designer.
 *   **Technologies:** `Systems Thinking`, `AI Agent Orchestration`, `RAG`, `Prototyping`, `TypingMind`, `MindStudio`.
