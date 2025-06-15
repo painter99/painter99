@@ -12,14 +12,14 @@
 
 ---
 
-Jsem **AI Systems & Process Designer** s unikátním pohledem z 10+ let v precizním průmyslovém prostředí. Mou doménou je návrh a prototypování robustních, inteligentních a efektivních systémů.
+Jsem **AI Systems & Process Designer**, který aplikuje systémové myšlení a preciznost z 10+ let v průmyslu na návrh a prototypování robustních, inteligentních a efektivních systémů.
 
 ### Moje Filozofie
 
 Můj přístup stojí na dvou pilířích, které propojují dva světy:
 
 1.  **Průmyslová Preciznost:** Dekáda ve výrobě, kde byla kvalita a procesní disciplína klíčová, je základem mého myšlení. Každý systém, který navrhuji, musí být spolehlivý, logický a postavený na pevných základech.
-2.  **Architektura před Kódem:** Věřím, že skutečná hodnota je v dokonalém návrhu a plánu (blueprintu). Proto se soustředím na moderní no-code/low-code platformy, které mi umožňují plně se věnovat architektuře a logice, a tím dodat funkční řešení rychleji a efektivněji.
+2.  **Architektura před Kódem:** Věřím, že skutečná hodnota je v dokonalém návrhu a plánu (blueprintu). Proto se soustředím na moderní no-code/low-code platformy a AI agenty, které mi umožňují plně se věnovat architektuře a logice, a tím dodat funkční řešení rychleji a efektivněji.
 
 ---
 
@@ -27,10 +27,17 @@ Můj přístup stojí na dvou pilířích, které propojují dva světy:
 
 Zde jsou ukázky mého architektonického přístupu v praxi.
 
+#### **Adaptive Architecture Generator (AAG) 🏛️ - Inteligentní Architektonický Framework**
+*   **Popis:** Můj vlajkový projekt a manifest mé architektonické filozofie. AAG je modulární, konverzační framework implementovaný jako sada pokročilých systémových promptů, které transformují LLM v tým specializovaných AI architektů. Tento systém provádí uživatele strukturovaným procesem od prvotního nápadu až po detailní technickou specifikaci. AAG inteligentně volí hloubku analýzy (od rychlého MVP po enterprise-level návrh) a jeho finální modul překládá architekturu na konkrétní, implementovatelné úkoly pro AI kodéry v platformách jako TypingMind nebo MindStudio.
+*   **Role:** Tvůrce a hlavní architekt systému.
+*   **Technologie & Koncepty:** `Systems Design`, `AI Agent Orchestration`, `Advanced Prompt Engineering`, `Modular Architecture`, `No-Code/Low-Code Prototyping`.
+*   **Status:** V aktivním vývoji.
+
 #### **LifeOS v1.0 - Osobní Operační Systém řízený AI**
-*   **Popis:** Můj vlajkový projekt – multi-agentní systém navržený pro akceleraci osobního a profesního růstu. Jádrem je sémantická znalostní báze (RAG) a tým specializovaných AI agentů pro strategii, analýzu rizik a mentoring.
+*   **Popis:** Multi-agentní systém navržený pro akceleraci osobního a profesního růstu. Jádrem je sémantická znalostní báze (RAG) a tým specializovaných AI agentů pro strategii, analýzu rizik a mentoring.
 *   **Role:** Architekt & Designér systému.
 *   **Technologie:** `Systems Thinking`, `AI Agent Orchestration`, `RAG`, `Prototyping`, `TypingMind`, `MindStudio`.
+*   **Status:** V aktivním vývoji.
 
 #### **PromptAlchymista ⚗️ - Architektonický Blueprint pro AI Entity**
 *   **Popis:** Koncepční framework a manifest systematického přístupu k prompt engineeringu. Definuje v XML struktuře identitu, etiku a pracovní postupy pro robustní AI entitu.
@@ -38,15 +45,9 @@ Zde jsou ukázky mého architektonického přístupu v praxi.
 *   **Technologie:** `Prompt Engineering`, `XML`, `Systems Design`.
 *   **Repo:** [github.com/painter99/PromptAlchymista](https://github.com/painter99/PromptAlchymista)
 
-#### **ELEVATE - Koncept Adaptivního Vzdělávacího Systému**
-*   **Popis:** Vize a návrh personalizovaného vzdělávacího frameworku, který využívá AI k adaptaci obsahu na míru individuálním potřebám studenta.
-*   **Role:** Konceptuální Designér.
-*   **Technologie:** `AI-Powered Mentoring`, `Personalized Learning`.
-*   **Repo:** [github.com/painter99/ELEVATE-Academic](https://github.com/painter99/ELEVATE-Academic)
-
 ---
 
-### 🛠️ Technologický Stack & Metodologie
+### 🛠️ Klíčové Kompetence & Nástroje
 
 **Core Metodologie:**
 *   Systems Thinking & Design
@@ -54,20 +55,23 @@ Zde jsou ukázky mého architektonického přístupu v praxi.
 *   Blueprint-First Strategy
 *   Rapid Prototyping
 
-**Platformy & Nástroje:**
-*   **Hlavní:** MindStudio, TypingMind
+**Aktuálně používám:**
+- TypingMind (hlavní rozhraní)
 
-**Oblasti Zájmu & Rozvoje:**
-*   Python (pro skriptování a automatizaci), Git, JSON, XML
-*   AI Agent Orchestration (LangChain, DSPy)
-*   Knowledge Graph & RAG systémy
-*   Aplikace AI ve výrobě (Kontrola kvality, Automatizace procesů)
+**Aktivně se učím:**
+- MindStudio (prototypování)
+
+**Zkoumám:**
+- n8n (automatizace procesů)
+
+**Technologie pro Implementaci a Automatizaci:**
+*   Python (pro skriptování a automatizaci, **s využitím AI agentů pro akceleraci implementace dle mých návrhů**)
+*   Git, JSON, XML, API
 
 ---
 
 ### 📫 Spojme se
 
-Jsem otevřený spolupráci na zajímavých projektech, které vyžadují hluboké systémové myšlení a inovativní přístup k řešení problémů.
+Jsem otevřený spolupráci na zajímavých projektech, které vyžadují systémové myšlení a inovativní přístup k řešení problémů.
 
 *   **LinkedIn:** [Pavel Mareš](https://linkedin.com/in/pavel-mares-p99)
-*   **GitHub:** [github.com/painter99](https://github.com/painter99)
