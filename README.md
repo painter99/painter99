@@ -28,7 +28,7 @@ Můj přístup stojí na dvou pilířích, které propojují dva světy:
 Zde jsou ukázky mého architektonického přístupu v praxi.
 
 #### **Adaptive Architecture Generator (AAG) 🏛️ - Inteligentní Architektonický Framework**
-*   **Popis:** Můj vlajkový projekt a manifest mé architektonické filozofie. AAG je modulární, konverzační framework implementovaný jako sada pokročilých systémových promptů, které transformují LLM v tým specializovaných AI architektů. Tento systém provádí uživatele strukturovaným procesem od prvotního nápadu až po detailní technickou specifikaci. AAG inteligentně volí hloubku analýzy (od rychlého MVP po enterprise-level návrh) a jeho finální modul překládá architekturu na konkrétní, implementovatelné úkoly pro AI kodéry v platformách jako TypingMind nebo MindStudio.
+*   **Popis:** Můj vlajkový projekt a manifest mé architektonické filozofie. AAG je modulární, konverzační framework implementovaný jako sada pokročilých systémových promptů, které transformují LLM v tým specializovaných AI architektů. Tento systém provádí uživatele strukturovaným procesem od prvotního nápadu až po detailní technickou specifikaci. AAG inteligentně volí hloubku analýzy (od rychlého MVP po enterprise-level návrh) a jeho finální modul překládá architekturu na konkrétní, implementovatelné úkoly pro AI agentní kodéry.
 *   **Role:** Tvůrce a hlavní architekt systému.
 *   **Technologie & Koncepty:** `Systems Design`, `AI Agent Orchestration`, `Advanced Prompt Engineering`, `Modular Architecture`, `No-Code/Low-Code Prototyping`.
 *   **Status:** V aktivním vývoji.
@@ -65,7 +65,7 @@ Zde jsou ukázky mého architektonického přístupu v praxi.
 - n8n (automatizace procesů)
 
 **Technologie pro Implementaci a Automatizaci:**
-*   Python (pro skriptování a automatizaci, **s využitím AI agentů pro akceleraci implementace dle mých návrhů**)
+*   Python (pro skriptování a automatizaci, **s využitím AI agentních kodérů pro akceleraci implementace dle mých návrhů**)
 *   Git, JSON, XML, API
 
 ---
