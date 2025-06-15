@@ -33,7 +33,7 @@ Zde jsou ukázky mého architektonického přístupu v praxi.
 *   **Technologie & Koncepty:** `Systems Design`, `AI Agent Orchestration`, `Advanced Prompt Engineering`, `Modular Architecture`, `No-Code/Low-Code Prototyping`.
 *   **Status:** V aktivním vývoji.
 
-#### **LifeOS v1.0 - Osobní Operační Systém řízený AI**
+#### **LifeOS - Osobní Operační Systém řízený AI**
 *   **Popis:** Multi-agentní systém navržený pro akceleraci osobního a profesního růstu. Jádrem je sémantická znalostní báze (RAG) a tým specializovaných AI agentů pro strategii, analýzu rizik a mentoring.
 *   **Role:** Architekt & Designér systému.
 *   **Technologie:** `Systems Thinking`, `AI Agent Orchestration`, `RAG`, `Prototyping`, `TypingMind`, `MindStudio`.
