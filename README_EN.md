@@ -28,7 +28,7 @@ My approach is built on two pillars that bridge two different worlds:
 Here are some examples of my architectural approach in action.
 
 #### **Adaptive Architecture Generator (AAG) 🏛️ - An Intelligent Architectural Framework**
-*   **Description:** My flagship project and a manifest of my architectural philosophy. AAG is a modular, conversational framework implemented as a suite of advanced system prompts that transform an LLM into a team of specialized AI architects. The system guides users through a structured process, from the initial idea to a detailed technical specification. AAG intelligently selects the depth of analysis (from a quick MVP to an enterprise-level design) and its final module translates the architecture into concrete, implementable tasks for AI coders in platforms like TypingMind or MindStudio.
+*   **Description:** My flagship project and a manifest of my architectural philosophy. AAG is a modular, conversational framework implemented as a suite of advanced system prompts that transform an LLM into a team of specialized AI architects. The system guides users through a structured process, from the initial idea to a detailed technical specification. AAG intelligently selects the depth of analysis (from a quick MVP to an enterprise-level design) and its final module translates the architecture into concrete, implementable tasks for AI agentic coders.
 *   **Role:** Creator & Lead System Architect.
 *   **Technologies & Concepts:** `Systems Design`, `AI Agent Orchestration`, `Advanced Prompt Engineering`, `Modular Architecture`, `No-Code/Low-Code Prototyping`.
 *   **Status:** In active development.
@@ -65,7 +65,7 @@ Here are some examples of my architectural approach in action.
 - n8n (for process automation)
 
 **Implementation & Automation Technologies:**
-*   Python (for scripting and automation, **often leveraging AI agents to accelerate implementation based on my designs**)
+*   Python (for scripting and automation, **often leveraging AI agentic coders to accelerate implementation based on my designs**)
 *   Git, JSON, XML, API
 
 ---
