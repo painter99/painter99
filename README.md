@@ -2,17 +2,18 @@
 
 # Pavel Mareš
 
-### AI Systems & Process Designer
+### AI Systems & Process Designer | No-Code AI Prototyper
 
-[![AI & Machine Learning](https://img.shields.io/badge/Focus-AI_&_Machine_Learning-00BFFF?style=for-the-badge)](https://github.com/painter99)
-[![Systems Design](https://img.shields.io/badge/Methodology-Systems_Design-333333?style=for-the-badge)](https://github.com/painter99)
-[![Process Automation](https://img.shields.io/badge/Specialty-Process_Automation-orange?style=for-the-badge)](https://github.com/painter99)
+[![Focus: Applied AI](https://img.shields.io/badge/Focus-Applied_AI-00BFFF?style=for-the-badge)](https://github.com/painter99)
+[![Methodology: Systems Design](https://img.shields.io/badge/Methodology-Systems_Design-333333?style=for-the-badge)](https://github.com/painter99)
+[![Approach: No-Code & Low-Code](https://img.shields.io/badge/Approach-No--Code_&_Low--Code-00A98F?style=for-the-badge)](https://github.com/painter99)
+[![Skill: Rapid AI Prototyping](https://img.shields.io/badge/Skill-Rapid_AI_Prototyping-FF6F61?style=for-the-badge)](https://github.com/painter99)
 
 > "Věřím, že nejlepší učení přichází, když dělám něco, co mě baví. IT a umělá inteligence mi dávají smysl a motivaci, a proto se v nich přirozeně rozvíjím."
 
 ---
 
-Jsem **AI Systems & Process Designer**, který aplikuje systémové myšlení a preciznost z 10+ let v průmyslu na návrh a prototypování robustních, inteligentních a efektivních systémů.
+Jsem **AI Systems & Process Designer | No-Code AI Prototyper**, který aplikuje systémové myšlení a preciznost z 10+ let v průmyslu na návrh a prototypování robustních, inteligentních a efektivních systémů.
 
 ### Moje Filozofie
 
@@ -63,9 +64,9 @@ Zde jsou ukázky mého architektonického přístupu v praxi.
 
 **Zkoumám:**
 - n8n (automatizace procesů)
+- Langfuse (pozorovatelnost a vyhodnocování LLM aplikací)
 
 **Technologie pro Implementaci a Automatizaci:**
-*   Python (pro skriptování a automatizaci, **s využitím AI agentních kodérů pro akceleraci implementace dle mých návrhů**)
 *   Git, JSON, XML, API
 
 ---
