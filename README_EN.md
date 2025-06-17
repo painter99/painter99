@@ -2,17 +2,18 @@
 
 # Pavel Mareš
 
-### AI Systems & Process Designer
+### AI Systems & Process Designer | No-Code AI Prototyper
 
-[![AI & Machine Learning](https://img.shields.io/badge/Focus-AI_&_Machine_Learning-00BFFF?style=for-the-badge)](https://github.com/painter99)
-[![Systems Design](https://img.shields.io/badge/Methodology-Systems_Design-333333?style=for-the-badge)](https://github.com/painter99)
-[![Process Automation](https://img.shields.io/badge/Specialty-Process_Automation-orange?style=for-the-badge)](https://github.com/painter99)
+[![Focus: Applied AI](https://img.shields.io/badge/Focus-Applied_AI-00BFFF?style=for-the-badge)](https://github.com/painter99)
+[![Methodology: Systems Design](https://img.shields.io/badge/Methodology-Systems_Design-333333?style=for-the-badge)](https://github.com/painter99)
+[![Approach: No-Code & Low-Code](https://img.shields.io/badge/Approach-No--Code_&_Low--Code-00A98F?style=for-the-badge)](https://github.com/painter99)
+[![Skill: Rapid AI Prototyping](https://img.shields.io/badge/Skill-Rapid_AI_Prototyping-FF6F61?style=for-the-badge)](https://github.com/painter99)
 
 > "I believe the best learning comes from doing what you love. IT and artificial intelligence provide me with a sense of purpose and motivation, creating a natural drive for growth and development."
 
 ---
 
-I am an **AI Systems & Process Designer** who applies systems thinking and a decade of industrial precision to the design and prototyping of robust, intelligent, and efficient systems.
+I am an **AI Systems & Process Designer | No-Code AI Prototyper** who applies systems thinking and a decade of industrial precision to the design and prototyping of robust, intelligent, and efficient systems.
 
 ### My Philosophy
 
@@ -63,9 +64,9 @@ Here are some examples of my architectural approach in action.
 
 **Exploring:**
 - n8n (for process automation)
+- Langfuse (LLM observability and evaluation)
 
 **Implementation & Automation Technologies:**
-*   Python (for scripting and automation, **often leveraging AI agentic coders to accelerate implementation based on my designs**)
 *   Git, JSON, XML, API
 
 ---
