@@ -7,7 +7,7 @@
 [![Focus: Applied AI](https://img.shields.io/badge/Focus-Applied_AI-00BFFF?style=for-the-badge)](https://github.com/painter99)
 [![Methodology: Systems Design](https://img.shields.io/badge/Methodology-Systems_Design-333333?style=for-the-badge)](https://github.com/painter99)
 [![Approach: No-Code & Low-Code](https://img.shields.io/badge/Approach-No--Code_&_Low--Code-00A98F?style=for-the-badge)](https://github.com/painter99)
-[![Skill: Rapid AI Prototyping](https://img.shields.io/badge/Skill-Rapid_AI_Prototyping-FF6F61?style=for-the-badge)](https://github.com/painter99)
+[![Specialty: AI Workflow Automation](https://img.shields.io/badge/Specialty-AI_Workflow_Automation-orange?style=for-the-badge)](https://github.com/painter99)
 
 > "Věřím, že nejlepší učení přichází, když dělám něco, co mě baví. IT a umělá inteligence mi dávají smysl a motivaci, a proto se v nich přirozeně rozvíjím."
 
