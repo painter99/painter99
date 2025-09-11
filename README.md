@@ -13,14 +13,14 @@
 
 ---
 
-Jsem **AI Systems & Process Designer | No-Code AI Prototyper**, který aplikuje systémové myšlení a preciznost z 10+ let v průmyslu na návrh a prototypování robustních, inteligentních a efektivních systémů.
+Jsem **AI Systems & Process Designer**, který aplikuje systémové myšlení a preciznost z 10+ let v průmyslu na návrh a prototypování robustních, inteligentních a efektivních systémů.
 
 ### Moje Filozofie
 
 Můj přístup stojí na dvou pilířích, které propojují dva světy:
 
 1.  **Průmyslová Preciznost:** Dekáda ve výrobě, kde byla kvalita a procesní disciplína klíčová, je základem mého myšlení. Každý systém, který navrhuji, musí být spolehlivý, logický a postavený na pevných základech.
-2.  **Architektura před Kódem:** Věřím, že skutečná hodnota je v dokonalém návrhu a plánu (blueprintu). Proto se soustředím na moderní no-code/low-code platformy a AI agenty, které mi umožňují plně se věnovat architektuře a logice, a tím dodat funkční řešení rychleji a efektivněji.
+2.  **Architektura před Kódem:** Věřím, že skutečná hodnota je v dokonalém návrhu (blueprintu). Proto se soustředím na moderní no-code/low-code platformy, které mi umožňují plně se věnovat architektuře a logice, a tím dodat funkční řešení rychleji a efektivněji.
 
 ---
 
@@ -28,46 +28,31 @@ Můj přístup stojí na dvou pilířích, které propojují dva světy:
 
 Zde jsou ukázky mého architektonického přístupu v praxi.
 
-#### **Adaptive Architecture Generator (AAG) 🏛️ - Inteligentní Architektonický Framework**
-*   **Popis:** Můj vlajkový projekt a manifest mé architektonické filozofie. AAG je modulární, konverzační framework implementovaný jako sada pokročilých systémových promptů, které transformují LLM v tým specializovaných AI architektů. Tento systém provádí uživatele strukturovaným procesem od prvotního nápadu až po detailní technickou specifikaci. AAG inteligentně volí hloubku analýzy (od rychlého MVP po enterprise-level návrh) a jeho finální modul překládá architekturu na konkrétní, implementovatelné úkoly pro AI agentní kodéry.
+#### **ARIS (Autonomous Research & Insight Synthesizer) 🧠 - Autonomní Rešeršní Agent**
+*   **Popis:** Můj aktuální vlajkový projekt. ARIS je autonomní AI agent navržený pro provádění hloubkových, fakticky podložených a plně ocitovaných rešerší. Cílem je vytvořit systém, který na základě jednoduchého dotazu dynamicky plánuje, provádí a syntetizuje informace z různých zdrojů do strukturovaného, analytického reportu. Celý systém je prototypován a stavěn na platformě Dify.
 *   **Role:** Tvůrce a hlavní architekt systému.
-*   **Technologie & Koncepty:** `Systems Design`, `AI Agent Orchestration`, `Advanced Prompt Engineering`, `Modular Architecture`, `No-Code/Low-Code Prototyping`.
+*   **Technologie & Koncepty:** `Systems Design`, `AI Agent Orchestration`, `Workflow Automation`, `Dify`, `No-Code Prototyping`, `Advanced Prompt Engineering`.
 *   **Status:** V aktivním vývoji.
-
-#### **LifeOS - Osobní Operační Systém řízený AI**
-*   **Popis:** Multi-agentní systém navržený pro akceleraci osobního a profesního růstu. Jádrem je sémantická znalostní báze (RAG) a tým specializovaných AI agentů pro strategii, analýzu rizik a mentoring.
-*   **Role:** Architekt & Designér systému.
-*   **Technologie:** `Systems Thinking`, `AI Agent Orchestration`, `RAG`, `Prototyping`, `TypingMind`, `MindStudio`.
-*   **Status:** V aktivním vývoji.
+*   **Repo:** [github.com/painter99/ARIS](https://github.com/painter99/ARIS)
 
 #### **PromptAlchymista ⚗️ - Architektonický Blueprint pro AI Entity**
-*   **Popis:** Koncepční framework a manifest systematického přístupu k prompt engineeringu. Definuje v XML struktuře identitu, etiku a pracovní postupy pro robustní AI entitu.
+*   **Popis:** Koncepční framework a manifest mého systematického přístupu k prompt engineeringu. Definuje v XML struktuře identitu, etiku a pracovní postupy pro robustní a spolehlivou AI entitu. Je to základní kámen mé filozofie, jak navrhovat "osobnost" a chování AI.
 *   **Role:** Konceptuální Architekt.
 *   **Technologie:** `Prompt Engineering`, `XML`, `Systems Design`.
 *   **Repo:** [github.com/painter99/PromptAlchymista](https://github.com/painter99/PromptAlchymista)
 
 ---
 
-### 🛠️ Klíčové Kompetence & Nástroje
+### 🛠️ Můj Technologický Stack & Nástroje
 
-**Core Metodologie:**
-*   Systems Thinking & Design
-*   Process Design & Optimization
-*   Blueprint-First Strategy
-*   Rapid Prototyping
+Můj výběr nástrojů je zaměřen na efektivitu a robustnost v celém cyklu vývoje AI aplikací – od návrhu přes prototypování až po integraci.
 
-**Aktuálně používám:**
-- TypingMind (hlavní rozhraní)
+**Hlavní Platformy pro Stavbu a Prototypování:**
+*   **Dify:** Primární platforma pro vizuální návrh a stavbu komplexních, agentních workflow.
+*   **n8n:** Platforma pro pokročilou automatizaci a propojování AI systémů s externími API a službami.
 
-**Aktivně se učím:**
-- MindStudio (prototypování)
-
-**Zkoumám:**
-- n8n (automatizace procesů)
-- Langfuse (pozorovatelnost a vyhodnocování LLM aplikací)
-
-**Technologie pro Implementaci a Automatizaci:**
-*   Git, JSON, XML, API
+**Nástroje pro Analýzu a Testování:**
+*   **TypingMind:** Pokročilé rozhraní pro detailní interakci, testování a ladění chování LLM.
 
 ---
 
