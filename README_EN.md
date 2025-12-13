@@ -2,62 +2,58 @@
 
 # Pavel Mareš
 
-### AI Systems & Process Designer | No-Code AI Prototyper
+### Systems Thinking & Technical Development
+*Applying engineering principles to software practice.*
 
-[![Focus: Applied AI](https://img.shields.io/badge/Focus-Applied_AI-00BFFF?style=for-the-badge)](https://github.com/painter99)
-[![Methodology: Systems Design](https://img.shields.io/badge/Methodology-Systems_Design-333333?style=for-the-badge)](https://github.com/painter99)
-[![Approach: No-Code & Low-Code](https://img.shields.io/badge/Approach-No--Code_&_Low--Code-00A98F?style=for-the-badge)](https://github.com/painter99)
-[![Specialty: AI Workflow Automation](https://img.shields.io/badge/Specialty-AI_Workflow_Automation-orange?style=for-the-badge)](https://github.com/painter99)
+![BACKGROUND](https://img.shields.io/badge/BACKGROUND-SURFACE_FINISHING_&_QA-333333?style=for-the-badge)
+![STATUS](https://img.shields.io/badge/STATUS-BUILDING_FOUNDATIONS-00599C?style=for-the-badge)
+![FOCUS](https://img.shields.io/badge/FOCUS-PYTHON_&_LINUX-E44D26?style=for-the-badge)
 
-> "I believe the best learning comes from doing something I enjoy. IT and artificial intelligence give me a sense of purpose and motivation, which is why I naturally grow in these fields."
-
----
-
-I am an **AI Systems & Process Designer** who applies systems thinking and the precision gained from 10+ years in industry to design and prototype robust, intelligent, and efficient systems.
-
-### My Philosophy
-
-My approach is built on two pillars that bridge two worlds:
-
-1.  **Industrial Precision:** A decade in manufacturing, where quality and process discipline were key, forms the foundation of my thinking. Every system I design must be reliable, logical, and built on a solid foundation.
-2.  **Architecture Before Code:** I believe that true value lies in a perfect design (the blueprint). That's why I focus on modern no-code/low-code platforms, which allow me to fully dedicate myself to architecture and logic, thereby delivering functional solutions faster and more efficiently.
+> "Quality is a habit, not an act. I apply the same principles of discipline and adherence to technical procedures from my hands-on experience directly to my study of code."
 
 ---
 
-### 🚀 Featured Projects
+### About Me
 
-Here are examples of my architectural approach in practice.
+I am transitioning from a 10+ year career in **surface finishing technology a field where precision and quality control are paramount** into the world of IT.
 
-#### **ARIS (Autonomous Research & Insight Synthesizer) 🧠 - Autonomous Research Agent**
-*   **Description:** My current flagship project. ARIS is an autonomous AI agent designed to conduct in-depth, fact-based, and fully cited research. The goal is to create a system that, based on a simple query, dynamically plans, executes, and synthesizes information from various sources into a structured, analytical report. The entire system is being prototyped and built on the Dify platform.
-*   **Role:** Creator and Lead System Architect.
-*   **Technologies & Concepts:** `Systems Design`, `AI Agent Orchestration`, `Workflow Automation`, `Dify`, `No-Code Prototyping`, `Advanced Prompt Engineering`.
-*   **Status:** In active development.
-*   **Repo:** [github.com/painter99/ARIS](https://github.com/painter99/ARIS)
+My journey hasn't been a straight line. I started with certifications in **QA & Testing**, explored the basics of **Cybersecurity**, and I am fascinated by **AI Architecture**. However, I realized that to be a true creator, I need to master the tools in depth, not just the concepts.
 
-#### **PromptAlchymista ⚗️ - An Architectural Blueprint for AI Entities**
-*   **Description:** A conceptual framework and a manifesto of my systematic approach to prompt engineering. It defines the identity, ethics, and workflows for a robust and reliable AI entity within an XML structure. It is the cornerstone of my philosophy on how to design the "personality" and behavior of an AI.
-*   **Role:** Conceptual Architect.
-*   **Technologies:** `Prompt Engineering`, `XML`, `Systems Design`.
-*   **Repo:** [github.com/painter99/PromptAlchymista](https://github.com/painter99/PromptAlchymista)
+Currently, I have stepped back from building complex prototypes to focus strictly on **engineering fundamentals**: Python, Algorithms, and Linux.
 
 ---
 
-### 🛠️ My Tech Stack & Tools
+### Skills & Learning Path
 
-My choice of tools is focused on efficiency and robustness throughout the entire AI application development cycle—from design and prototyping to integration.
+My skill set is a blend of certified knowledge and active self-study.
 
-**Core Platforms for Building and Prototyping:**
-*   **Dify:** My primary platform for visually designing and building complex, agentic workflows.
-*   **n8n:** The platform for advanced automation and connecting AI systems with external APIs and services.
+#### Technical Foundations (Active Learning)
+*   **Python:** (Resources: DataCamp, Automate the Boring Stuff with Python, Python for Everybody).
+*   **Introduction to Python for AI Engineers:** (Source: Towards AI).
 
-**Tools for Analysis and Testing:**
-*   **TypingMind:** An advanced interface for detailed interaction, testing, and debugging of LLM behavior.
+#### Certifications (Completed)
+*   **Junior Tester:** Engeto Academy (100h) - SDLC, Python basics, Testing strategies.
+*   **Cybersecurity Basics:** ITnetwork (70h) - Cryptography, Risk Analysis, Security Protocols.
+
+#### Knowledge Expansion (Future Study)
+*   [**LLM Course:**](https://github.com/mlabonne/llm-course) Deepening understanding of LLM engineering.
+*   [**A Course AI Agents for Beginners:**](https://github.com/microsoft/ai-agents-for-beginners) Understanding of AI agents.
+
+#### Cognitive Skills
+*   **Systemic Thinking:** Ability to decompose complex problems into logical steps.
+*   **Prompt Engineering:** Designing structured and reliable interactions with AI.
+*   **Process Discipline:** Gained from years of practice in a technically demanding environment.
 
 ---
 
-### 📫 Let's Connect
+### Motivation
 
-I am open to collaborating on interesting projects that require systems thinking and an innovative approach to problem-solving.
+I am driven primarily by **curiosity**.
 
-*   **LinkedIn:** [Pavel Mareš](https://linkedin.com/in/pavel-mares-p99)
+1.  **Sovereignty:** I use Linux and local tools because I want to understand and own my environment.
+2.  **Quality:** Thanks to my QA background, I dislike "quick and dirty" solutions. I aim to build things that are reliable and maintainable.
+3.  **Automation:** I see AI not as magic, but as a tool to automate logic. My goal is to script this logic efficiently.
+
+---
+
+[Connect on LinkedIn](https://linkedin.com/in/pavel-mares-p99)
