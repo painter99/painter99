@@ -2,62 +2,58 @@
 
 # Pavel Mareš
 
-### AI Systems & Process Designer | No-Code AI Prototyper
+### Systémové myšlení & Technický rozvoj
+*Přenos inženýrských principů do softwarové praxe.*
 
-[![Focus: Applied AI](https://img.shields.io/badge/Focus-Applied_AI-00BFFF?style=for-the-badge)](https://github.com/painter99)
-[![Methodology: Systems Design](https://img.shields.io/badge/Methodology-Systems_Design-333333?style=for-the-badge)](https://github.com/painter99)
-[![Approach: No-Code & Low-Code](https://img.shields.io/badge/Approach-No--Code_&_Low--Code-00A98F?style=for-the-badge)](https://github.com/painter99)
-[![Specialty: AI Workflow Automation](https://img.shields.io/badge/Specialty-AI_Workflow_Automation-orange?style=for-the-badge)](https://github.com/painter99)
+![POZADÍ](https://img.shields.io/badge/POZADÍ-TECHNOLOGIE_POVRCHŮ_&_QA-333333?style=for-the-badge)
+![STATUS](https://img.shields.io/badge/STATUS-BUDOVÁNÍ_ZÁKLADŮ-00599C?style=for-the-badge)
+![ZAMĚŘENÍ](https://img.shields.io/badge/ZAMĚŘENÍ-PYTHON_&_LINUX-E44D26?style=for-the-badge)
 
-> "Věřím, že nejlepší učení přichází, když dělám něco, co mě baví. IT a umělá inteligence mi dávají smysl a motivaci, a proto se v nich přirozeně rozvíjím."
-
----
-
-Jsem **AI Systems & Process Designer**, který aplikuje systémové myšlení a preciznost z 10+ let v průmyslu na návrh a prototypování robustních, inteligentních a efektivních systémů.
-
-### Moje Filozofie
-
-Můj přístup stojí na dvou pilířích, které propojují dva světy:
-
-1.  **Průmyslová Preciznost:** Dekáda ve výrobě, kde byla kvalita a procesní disciplína klíčová, je základem mého myšlení. Každý systém, který navrhuji, musí být spolehlivý, logický a postavený na pevných základech.
-2.  **Architektura před Kódem:** Věřím, že skutečná hodnota je v dokonalém návrhu (blueprintu). Proto se soustředím na moderní no-code/low-code platformy, které mi umožňují plně se věnovat architektuře a logice, a tím dodat funkční řešení rychleji a efektivněji.
+> "Kvalita je zvyk, ne jednorázový čin. Principy důslednosti a dodržování technologických postupů přenáším z reálné praxe přímo do studia kódu."
 
 ---
 
-### 🚀 Vybrané Projekty
+### O mně
 
-Zde jsou ukázky mého architektonického přístupu v praxi.
+Procházím transformací z více než desetileté kariéry v oboru **technologii povrchových úprav, kde jsou preciznost a řízení kvality absolutní nutností** do světa IT.
 
-#### **ARIS (Autonomous Research & Insight Synthesizer) 🧠 - Autonomní Rešeršní Agent**
-*   **Popis:** Můj aktuální vlajkový projekt. ARIS je autonomní AI agent navržený pro provádění hloubkových, fakticky podložených a plně ocitovaných rešerší. Cílem je vytvořit systém, který na základě jednoduchého dotazu dynamicky plánuje, provádí a syntetizuje informace z různých zdrojů do strukturovaného, analytického reportu. Celý systém je prototypován a stavěn na platformě Dify.
-*   **Role:** Tvůrce a hlavní architekt systému.
-*   **Technologie & Koncepty:** `Systems Design`, `AI Agent Orchestration`, `Workflow Automation`, `Dify`, `No-Code Prototyping`, `Advanced Prompt Engineering`.
-*   **Status:** V aktivním vývoji.
-*   **Repo:** [github.com/painter99/ARIS](https://github.com/painter99/ARIS)
+Moje cesta nebyla přímá. Začal jsem certifikací v **QA a Testování**, prozkoumal základy **Kyberbezpečnosti** a fascinuje mě **AI Architektura**. Uvědomil jsem si však, že chci-li být skutečným tvůrcem, musím ovládnout nástroje do hloubky, nejen koncepty.
 
-#### **PromptAlchymista ⚗️ - Architektonický Blueprint pro AI Entity**
-*   **Popis:** Koncepční framework a manifest mého systematického přístupu k prompt engineeringu. Definuje v XML struktuře identitu, etiku a pracovní postupy pro robustní a spolehlivou AI entitu. Je to základní kámen mé filozofie, jak navrhovat "osobnost" a chování AI.
-*   **Role:** Konceptuální Architekt.
-*   **Technologie:** `Prompt Engineering`, `XML`, `Systems Design`.
-*   **Repo:** [github.com/painter99/PromptAlchymista](https://github.com/painter99/PromptAlchymista)
+Aktuálně jsem ustoupil od stavění složitých prototypů a plně se soustředím na **inženýrské základy**: Python, Algoritmy a Linux.
 
 ---
 
-### 🛠️ Můj Technologický Stack & Nástroje
+### Dovednosti a Cesta učení
 
-Můj výběr nástrojů je zaměřen na efektivitu a robustnost v celém cyklu vývoje AI aplikací – od návrhu přes prototypování až po integraci.
+Můj profil je kombinací certifikovaných znalostí a intenzivního samostudia.
 
-**Hlavní Platformy pro Stavbu a Prototypování:**
-*   **Dify:** Primární platforma pro vizuální návrh a stavbu komplexních, agentních workflow.
-*   **n8n:** Platforma pro pokročilou automatizaci a propojování AI systémů s externími API a službami.
+#### Technické základy (Aktuální studium)
+*   **Python:** (Zdroje: DataCamp, Automate the Boring Stuff with Python, Python for Everybody).
+*   **Úvod do jazyka Python pro začínající inženýry:** (Zdroj: Towards AI).
 
-**Nástroje pro Analýzu a Testování:**
-*   **TypingMind:** Pokročilé rozhraní pro detailní interakci, testování a ladění chování LLM.
+#### Certifikace (Dokončeno)
+*   **Junior Tester:** Engeto Academy (100h) - SDLC, základy Pythonu, Testovací strategie.
+*   **Základy Kyberbezpečnost:** ITnetwork (70h) - Kryptografie, Analýza rizik, Bezpečnostní protokoly.
+
+#### Rozšíření znalostí (Budoucí studium)
+*   [**Kurz LLM:**](https://github.com/mlabonne/llm-course) Hlubší porozumění inženýrství jazykových modelů.
+*   [**Kurz AI Agentů pro začátečníky:**](https://github.com/microsoft/ai-agents-for-beginners/blob/main/translations/cs/README.md) Porozumění AI agentům.
+
+#### Kognitivní dovednosti
+*   **Systémové myšlení:** Schopnost rozložit složitý problém na logické kroky.
+*   **Prompt Engineering:** Návrh strukturovaných a spolehlivých interakcí s AI.
+*   **Procesní disciplína:** Získaná z praxe s řízením procesů a materiálových specifikací.
 
 ---
 
-### 📫 Spojme se
+### Motivace
 
-Jsem otevřený spolupráci na zajímavých projektech, které vyžadují systémové myšlení a inovativní přístup k řešení problémů.
+Hne mě kupředu především **zvědavost**.
 
-*   **LinkedIn:** [Pavel Mareš](https://linkedin.com/in/pavel-mares-p99)
+1.  **Nezávislost:** Používám Linux a lokální nástroje, protože chci svému prostředí rozumět a plně ho ovládat.
+2.  **Kvalita:** Díky zkušenostem s QA nemám rád "rychlá" řešení. Chci stavět věci, které fungují spolehlivě a dlouhodobě.
+3.  **Automatizace:** AI neberu jako magii, ale jako nástroj pro automatizaci logiky. Mým cílem je umět tuto logiku efektivně skriptovat.
+
+---
+
+[Spojme se na LinkedIn](https://linkedin.com/in/pavel-mares-p99)
