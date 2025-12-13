@@ -3,7 +3,7 @@
 # Pavel Mareš
 
 ### Systémové myšlení & Technický rozvoj
-*Přenos inženýrských principů do softwarové praxe.*
+*Od technologie materiálů k softwarové architektuře.*
 
 ![POZADÍ](https://img.shields.io/badge/POZADÍ-TECHNOLOGIE_POVRCHŮ_&_QA-333333?style=for-the-badge)
 ![STATUS](https://img.shields.io/badge/STATUS-BUDOVÁNÍ_ZÁKLADŮ-00599C?style=for-the-badge)
