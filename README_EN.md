@@ -3,7 +3,7 @@
 # Pavel Mareš
 
 ### Systems Thinking & Technical Development
-*Applying engineering principles to software practice.*
+*From materials technology to software architecture.*
 
 ![BACKGROUND](https://img.shields.io/badge/BACKGROUND-SURFACE_FINISHING_&_QA-333333?style=for-the-badge)
 ![STATUS](https://img.shields.io/badge/STATUS-BUILDING_FOUNDATIONS-00599C?style=for-the-badge)
