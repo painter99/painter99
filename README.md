@@ -48,7 +48,7 @@ Můj profil je kombinací certifikovaných znalostí a intenzivního samostudia.
 
 ### Motivace
 
-Hne mě kupředu především **zvědavost**.
+Kupředu mě vede především **zvědavost**.
 
 1.  **Nezávislost:** Používám Linux a lokální nástroje, protože chci svému prostředí rozumět a plně ho ovládat.
 2.  **Kvalita:** Díky zkušenostem s QA nemám rád "rychlá" řešení. Chci stavět věci, které fungují spolehlivě a dlouhodobě.
