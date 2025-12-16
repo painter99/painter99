@@ -2,7 +2,7 @@
 
 # Pavel Mareš
 
-### Systems Thinking & Technical Development
+### Technical Development
 *From materials technology to software architecture.*
 
 ![BACKGROUND](https://img.shields.io/badge/BACKGROUND-SURFACE_FINISHING_&_QA-333333?style=for-the-badge)
