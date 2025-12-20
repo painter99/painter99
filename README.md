@@ -44,7 +44,7 @@ Začal jsem certifikací v **SW Testování**, prozkoumal základy **Kyberbezpe�
 - LLM Engineering (mlabonne/llm-course)
 - AI Agents (Microsoft Learn)
 
-> Zaměřuji se na solidní základy před přechodem k AI engineering.
+> Zaměřuji se na pevné základy před přechodem k AI engineering.
 
 ---
 
