@@ -22,7 +22,9 @@ I started with **SW Testing** certification, explored the basics of **Cybersecur
 
 ## 📂 Current Work
 
-- [**python-workshop**](https://github.com/painter99/python-workshop) — Systematic progression through the Python Mega Course. Focus: clean code, defensive programming, documented progress.
+- [**ai-workshop**](https://github.com/painter99/ai-workshop) — Systematic AI Engineering journey: Python → RAG → Dify → Local Inference → Fine-Tuning → Agents.
+
+> Detailed roadmap and progress inside the repository.
 
 > Significant projects, not limited to courses, will be gradually moved to separate repositories.
 
