@@ -22,7 +22,9 @@ Začal jsem certifikací v **SW Testování**, prozkoumal základy **Kyberbezpe�
 
 ## 📂 Aktuální práce
 
-- [**python-workshop**](https://github.com/painter99/python-workshop) — Systematické procházení Python Mega Course. Fokus: clean code, defensive programming, dokumentovaný progress.
+- [**ai-workshop**](https://github.com/painter99/ai-workshop) — Systematická cesta k AI Engineering: Python → RAG → Dify → Local Inference → Fine-Tuning → Agents.
+
+> Detailní roadmap a progress viz repozitář.
 
 > Významnější projekty nejen z kurzů budou postupně přesunuty do samostatných repozitářů.
 
