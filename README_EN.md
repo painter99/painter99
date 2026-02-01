@@ -35,7 +35,7 @@ I started with **SW Testing** certification, explored the basics of **Cybersecur
 
 **Current Focus:**
 - Python (fundamentals, data structures, file I/O)
-- Linux (Kubuntu daily driver)
+- Linux (Pop!_os daily driver)
 - Git workflows
 
 **Certifications:**
