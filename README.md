@@ -35,7 +35,7 @@ Začal jsem certifikací v **SW Testování**, prozkoumal základy **Kyberbezpe�
 
 **Aktuální fokus:**
 - Python (fundamentals, data structures, file I/O)
-- Linux (Kubuntu daily driver)
+- Linux (Pop!_os daily driver)
 - Git workflows
 
 **Certifikace:**
