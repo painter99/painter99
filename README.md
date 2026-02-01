@@ -23,6 +23,7 @@ Začal jsem certifikací v **SW Testování**, prozkoumal základy **Kyberbezpe�
 ## 📂 Aktuální práce
 
 - [**ai-workshop**](https://github.com/painter99/ai-workshop) — Systematická cesta k AI Engineering: Python → RAG → Dify → Local Inference → Fine-Tuning → Agents.
+- [**cad-workshop**](https://github.com/painter99/cad-workshop) — Experimentování s parametrickým CAD přes Python a Build123d.
 
 > Detailní roadmap a progress viz repozitář.
 
