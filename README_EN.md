@@ -23,6 +23,7 @@ I started with **SW Testing** certification, explored the basics of **Cybersecur
 ## 📂 Current Work
 
 - [**ai-workshop**](https://github.com/painter99/ai-workshop) — Systematic AI Engineering journey: Python → RAG → Dify → Local Inference → Fine-Tuning → Agents.
+- [**cad-workshop**](https://github.com/painter99/cad-workshop) — Experimenting with parametric CAD via Python and Build123d.
 
 > Detailed roadmap and progress inside the repository.
 
