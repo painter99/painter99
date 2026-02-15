@@ -22,8 +22,9 @@ I started with **SW Testing** certification, explored the basics of **Cybersecur
 
 ## 📂 Current Work
 
-- [**ai-workshop**](https://github.com/painter99/ai-workshop) — Systematic AI Engineering journey: Python → RAG → Dify → Local Inference → Fine-Tuning → Agents.
-- [**cad-workshop**](https://github.com/painter99/cad-workshop) — Experimenting with parametric CAD via Python and Build123d.
+- [**SemiShape**](https://github.com/painter99/semishape) — Experimental AI Co-pilot for build123d. A practical synthesis of AI Engineering and Parametric CAD study, developed within Google AI Studio.
+- [**ai-workshop**](https://github.com/painter99/ai-workshop) — Systematic roadmap to AI Engineering: Python → RAG → Dify → Local Inference → Fine-Tuning → Agents.
+- [**cad-workshop**](https://github.com/painter99/cad-workshop) — Exploring parametric CAD via Python and Build123d.
 
 > Detailed roadmap and progress inside the repository.
 
