@@ -22,11 +22,9 @@ I started with **SW Testing** certification, explored the basics of **Cybersecur
 
 ## 📂 Current Work
 
-- [**SemiShape**](https://github.com/painter99/semishape) — Experimental AI Co-pilot for build123d. A practical synthesis of AI Engineering and Parametric CAD study, developed within Google AI Studio.
-- [**ai-workshop**](https://github.com/painter99/ai-workshop) — Systematic roadmap to AI Engineering: Python → RAG → Dify → Local Inference → Fine-Tuning → Agents.
+- [**SemiShape**](https://github.com/painter99/semishape) — Experimental AI Co-pilot for build123d.
+- [**ai-workshop**](https://github.com/painter99/ai-workshop) — A structured technical learning repository focused on Python foundations, disciplined experimentation, and practical bridges toward technical IT, automation, and industrial problem-solving.
 - [**cad-workshop**](https://github.com/painter99/cad-workshop) — Exploring parametric CAD via Python and Build123d.
-
-> Detailed roadmap and progress inside the repository.
 
 > Significant projects, not limited to courses, will be gradually moved to separate repositories.
 
@@ -36,8 +34,9 @@ I started with **SW Testing** certification, explored the basics of **Cybersecur
 
 **Current Focus:**
 - Python (fundamentals, data structures, file I/O)
-- Linux (Pop!_os daily driver)
+- Linux (Pop!_OS daily driver)
 - Git workflows
+- Local LLM/SLM multi-model prompt chaining
 
 **Certifications:**
 - Junior Tester (Engeto, 100h) — SDLC, test strategies, Python basics
