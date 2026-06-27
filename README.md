@@ -10,7 +10,7 @@
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-> "Kvalita je zvyk, ne jednorázový čin. Principy z praxe přenáším do kódu."
+> "Kvalita je zvyk, ne jednorázový čin."
 
 ---
 
@@ -18,7 +18,7 @@
 
 Mám za sebou více než 10 let v oboru **technologií povrchových úprav** a průmyslové výroby, kde jsou preciznost a systematický přístup naprostou nutností. 
 
-Prošel jsem si certifikací v **SW Testování** a základy **Kyberbezpečnosti**, ale můj hlavní zájem se nyní soustředí na **vývoj a UAT testování v Odoo ERP**. Mým cílem je propojovat hluboké znalosti reálných výrobních procesů se světem podnikového softwaru. 
+Prošel jsem si certifikací v **SW Testování** a základy **Kyberbezpečnosti**, ale můj hlavní zájem se nyní soustředí na **vývoj a UAT testování v Odoo ERP**.
 
 Abych tyto systémy dokázal nejen používat, ale i upravovat "pod kapotou", stavím si pevné základy v **Pythonu, Linuxu a orchestraci v Dockeru**. Souběžně s tím experimentuji s lokálními AI modely a agentními systémy, protože věřím, že budoucnost ERP leží v jejich inteligentní automatizaci.
 
@@ -26,9 +26,9 @@ Abych tyto systémy dokázal nejen používat, ale i upravovat "pod kapotou", st
 
 ## 📂 Aktuální práce
 
+- [**pve-node-iac**](https://github.com/painter99/pve-node-iac) — Infrastructure as Code repozitář pro provisioning, tuning a orchestraci jednouzlového Proxmox VE home labu (Dell Optiplex 3060). Spravuje konfiguraci bare-metal hostitele, vrstvu unprivileged LXC nesting kontejnerů i nasazovací stack (Odoo 19 + PostgreSQL 16 + pgvector + n8n + faster-whisper) s zero-exposure sítí přes Tailscale. Aktuálně ve fázi pre-alpha výzkumu a návrhu.
 - [**odoo-docker-sandbox**](https://github.com/painter99/odoo-docker-sandbox) — Moje vývojové a testovací prostředí pro učení Odoo ERP pomocí Dockeru. Repozitář obsahuje best practices pro lokální vývoj, přípravu na UAT testování a tvorbu vlastních Python modulů modelujících reálnou výrobu (lakovnu).
 - [**ai-workshop**](https://github.com/painter99/ai-workshop) — Strukturovaný repozitář mých technických znalostí a roadmapy učení. Sdílím zde praktické základy: od aktivace Python prostředí až po práci s lokálními Ollama modely a multi-model prompt chaining přes CLI.
-- [**SemiShape**](https://github.com/painter99/semishape) — Experimentální AI asistent pro knihovnu build123d.
 
 > Významnější projekty (nejen z kurzů) budou postupně přesunuty do samostatných repozitářů.
 
@@ -55,7 +55,7 @@ Abych tyto systémy dokázal nejen používat, ale i upravovat "pod kapotou", st
 
 ## Principy
 
-- **Praxe a přesah:** Kód musí řešit reálné problémy z výroby, nejen ty teoretické.
+- **Praxe:** Řešení musí odpovídat reálným problémům, ne jen těm teoretickým.
 - **Systematický přístup:** Hloubka porozumění (jak věci fungují pod kapotou) má přednost před šířkou.
 - **Nezávislost:** Open-source nástroje, vlastní lokální infrastruktura (Linux/Docker) = plná kontrola nad prostředím.
 

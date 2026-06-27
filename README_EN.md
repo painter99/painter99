@@ -10,7 +10,7 @@
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-> "Quality is a habit, not an act. I apply principles from industrial practice directly to code."
+> "Quality is a habit, not an act."
 
 ---
 
@@ -18,7 +18,7 @@
 
 I have over 10 years of experience in **Surface Technology** and industrial manufacturing, where precision and a systematic approach are mandatory.
 
-After gaining certifications in **SW Testing** and **Cybersecurity**, my primary focus has shifted toward **Odoo ERP development and UAT testing**. My goal is to bridge the gap between deep industrial domain knowledge and enterprise software solutions.
+After gaining certifications in **SW Testing** and **Cybersecurity**, my primary focus has shifted toward **Odoo ERP development and UAT testing**.
 
 To master these systems "under the hood," I am building a solid foundation in **Python, Linux, and Docker orchestration**. Simultaneously, I experiment with local AI models and agentic systems, as I believe the future of ERP lies in intelligent automation.
 
@@ -26,9 +26,9 @@ To master these systems "under the hood," I am building a solid foundation in **
 
 ## 📂 Current Work
 
+- [**pve-node-iac**](https://github.com/painter99/pve-node-iac) — Infrastructure as Code repository for provisioning, tuning, and orchestrating a single-node Proxmox VE home lab (Dell Optiplex 3060). It manages bare-metal host configuration, the unprivileged LXC nesting container layer, and the deployment stack (Odoo 19 + PostgreSQL 16 + pgvector + n8n + faster-whisper) with zero-exposure networking via Tailscale. Currently in a pre-alpha research and design phase.
 - [**odoo-docker-sandbox**](https://github.com/painter99/odoo-docker-sandbox) — My development and testing environment for learning Odoo ERP using Docker. This repository includes best practices for local development, UAT preparation, and the creation of custom Python modules modeling real-world manufacturing (powder coating) processes.
 - [**ai-workshop**](https://github.com/painter99/ai-workshop) — A structured technical learning repository and roadmap. I share practical foundations here: from Python environment setup to working with local Ollama models and multi-model prompt chaining via CLI.
-- [**SemiShape**](https://github.com/painter99/semishape) — Experimental AI Co-pilot for build123d.
 
 > Significant projects, not limited to courses, will be gradually moved to separate repositories.
 
@@ -55,7 +55,7 @@ To master these systems "under the hood," I am building a solid foundation in **
 
 ## Principles
 
-- **Practice and Context:** Code must solve real manufacturing problems, not just theoretical ones.
+- **Practice:** Solutions must address real problems, not just theoretical ones.
 - **Systematic Approach:** Depth of understanding (how things work under the hood) over breadth.
 - **Independence:** Open-source tools + private local infrastructure (Linux/Docker) = full control over the environment.
 
