@@ -2,63 +2,20 @@
 
 # Pavel Mareš
 
-**Technický rozvoj: Od průmyslových procesů k ERP a automatizaci**
+Průmyslový profesionál s více než 10 lety praxe v technologiích povrchových úprav a s technickým IT zázemím – softwarové testování (Engeto), základy kyberbezpečnosti (ITnetwork), Linux, Python.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+Tento GitHub slouží jako sbírka menších osobních nástrojů a archiv mých
+učebních IT/ERP projektů z let 2024–2026.
 
-> "Kvalita je zvyk, ne jednorázový čin."
+## Repozitáře
 
----
-
-## O mně
-
-Mám za sebou více než 10 let v oboru **technologií povrchových úprav** a průmyslové výroby, kde jsou preciznost a systematický přístup naprostou nutností. 
-
-Prošel jsem si certifikací v **SW Testování** a základy **Kyberbezpečnosti**, ale můj hlavní zájem se nyní soustředí na **vývoj a UAT testování v Odoo ERP**.
-
-Abych tyto systémy dokázal nejen používat, ale i upravovat "pod kapotou", stavím si pevné základy v **Pythonu, Linuxu a orchestraci v Dockeru**. Souběžně s tím experimentuji s lokálními AI modely a agentními systémy, protože věřím, že budoucnost ERP leží v jejich inteligentní automatizaci.
-
----
-
-## 📂 Aktuální práce
-
-- [**pve-node-iac**](https://github.com/painter99/pve-node-iac) — Infrastructure as Code repozitář pro provisioning, tuning a orchestraci jednouzlového Proxmox VE home labu (Dell Optiplex 3060). Spravuje konfiguraci bare-metal hostitele, vrstvu unprivileged LXC nesting kontejnerů i nasazovací stack (Odoo 19 + PostgreSQL 16 + pgvector + n8n + faster-whisper) s zero-exposure sítí přes Tailscale. Aktuálně ve fázi pre-alpha výzkumu a návrhu.
-- [**odoo-docker-sandbox**](https://github.com/painter99/odoo-docker-sandbox) — Moje vývojové a testovací prostředí pro učení Odoo ERP pomocí Dockeru. Repozitář obsahuje best practices pro lokální vývoj, přípravu na UAT testování a tvorbu vlastních Python modulů modelujících reálnou výrobu (lakovnu).
-- [**ai-workshop**](https://github.com/painter99/ai-workshop) — Strukturovaný repozitář mých technických znalostí a roadmapy učení. Sdílím zde praktické základy: od aktivace Python prostředí až po práci s lokálními Ollama modely a multi-model prompt chaining přes CLI.
-
-> Významnější projekty (nejen z kurzů) budou postupně přesunuty do samostatných repozitářů.
-
----
-
-## Technické dovednosti
-
-**Aktuální fokus:**
-- Odoo ERP (Architektura, ORM, UAT testování)
-- Python (Fundamentals, datové struktury, skriptování)
-- Docker (Orchestrace kontejnerů pro lokální vývoj, docker-compose)
-- Linux (Pop!_OS daily driver) & Git workflows
-- Lokální AI (Ollama, multi-model prompt chaining v CLI)
-
-**Certifikace:**
-- Junior Tester (Engeto, 100h) — SDLC, testovací strategie, tvorba test-cases
-- Základy Kyberbezpečnosti (ITnetwork, 70h) — Analýza rizik, kryptografie
-
-**Na horizontu:**
-- Studium *Odoo 19 Development Cookbook (Packt)* – vývoj custom modulů a REST API
-- Propojování AI agentů (MCP standard) s podnikovými systémy a databázemi
-
----
-
-## Principy
-
-- **Praxe:** Řešení musí odpovídat reálným problémům, ne jen těm teoretickým.
-- **Systematický přístup:** Hloubka porozumění (jak věci fungují pod kapotou) má přednost před šířkou.
-- **Nezávislost:** Open-source nástroje, vlastní lokální infrastruktura (Linux/Docker) = plná kontrola nad prostředím.
-
----
+- **[aq-analyzer](https://github.com/painter99/aq-analyzer)** — Analýza kvality audia
+  pro Android (dynamický rozsah, loudness). Raná fáze PoC.
+- **[agora-pro-setup](https://github.com/painter99/agora-pro-setup)** — Dokumentace
+  mého setupu pro Agora AI agent app (F-Droid).
+- **[pve-node-iac](https://github.com/painter99/pve-node-iac)**,
+  **[odoo-docker-sandbox](https://github.com/painter99/odoo-docker-sandbox)**,
+  **[ai-workshop](https://github.com/painter99/ai-workshop)** — archivní učební
+  projekty z IT/ERP období (2024–2026).
 
 [LinkedIn](https://linkedin.com/in/pavel-mares-p99)
