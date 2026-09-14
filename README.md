@@ -2,20 +2,33 @@
 
 # Pavel Mareš
 
-Průmyslový profesionál s více než 10 lety praxe v technologiích povrchových úprav a s technickým IT zázemím – softwarové testování (Engeto), základy kyberbezpečnosti (ITnetwork), Linux, Python.
+Profesionál s více než 10 lety praxe v průmyslové výrobě (technologie povrchových
+úprav), s certifikací v softwarovém testování (Engeto) a základech kyberbezpečnosti
+(ITnetwork), a se samostudiem Linuxu a Pythonu. Na GitHubu spravuji osobní
+experimenty a učební projekty — převážně dokumentaci, architektury a menší
+prototypy.
 
-Tento GitHub slouží jako sbírka menších osobních nástrojů a archiv mých
-učebních IT/ERP projektů z let 2024–2026.
+## Vybrané repozitáře
 
-## Repozitáře
+- **[inizio_ukol](https://github.com/painter99/inizio_ukol)** — funkční webová
+  aplikace (Python/Flask) pro získání organických výsledků z Google přes SerpApi
+  s exportem do JSON; zahrnuje unit testy a nasazení v cloudu.
+- **[ai-workshop](https://github.com/painter99/ai-workshop)** — učební repozitář:
+  základy Pythonu a lokálního provozu LLM (Ollama), včetně empiricky ověřeného
+  multi-model prompt chainingu a návrhu aplikace AXONEX.
+- **[ai-templates](https://github.com/painter99/ai-templates)** — kolekce
+  strukturovaných promptových šablon pro práci s jazykovými modely (archiv).
+- **[aq-analyzer](https://github.com/painter99/aq-analyzer)** — návrh a specifikace
+  Android aplikace pro analýzu kvality audia; fáze konceptu.
+- **[agora-pro-setup](https://github.com/painter99/agora-pro-setup)** — konfigurace
+  a dokumentace pro AI agenta Agora (F-Droid).
 
-- **[aq-analyzer](https://github.com/painter99/aq-analyzer)** — Analýza kvality audia
-  pro Android (dynamický rozsah, loudness). Raná fáze PoC.
-- **[agora-pro-setup](https://github.com/painter99/agora-pro-setup)** — Dokumentace
-  mého setupu pro Agora AI agent app (F-Droid).
-- **[pve-node-iac](https://github.com/painter99/pve-node-iac)**,
-  **[odoo-docker-sandbox](https://github.com/painter99/odoo-docker-sandbox)**,
-  **[ai-workshop](https://github.com/painter99/ai-workshop)** — archivní učební
-  projekty z IT/ERP období (2024–2026).
+## Další (archiv)
+
+- **[windsurf-prejunior-config](https://github.com/painter99/windsurf-prejunior-config)**,
+  **[cad-workshop](https://github.com/painter99/cad-workshop)**,
+  **[pve-node-iac](https://github.com/painter99/pve-node-iac)**,
+  **[odoo-docker-sandbox](https://github.com/painter99/odoo-docker-sandbox)** —
+  učební a konfigurační projekty z období 2024–2026.
 
 [LinkedIn](https://linkedin.com/in/pavel-mares-p99)
