@@ -33,3 +33,12 @@ architecture designs, and small prototypes.
   learning and configuration projects from 2024–2026.
 
 [LinkedIn](https://linkedin.com/in/pavel-mares-p99)
+
+### A small statement
+
+> I support [Keep Android Open](https://keepandroidopen.org/) — Google is
+> introducing mandatory developer and app registration for distribution
+> outside Google Play (first countries from 9/2026, globally from 2027).
+> As an Android user, I consider platform openness essential. I have
+> submitted a concern to the Czech competition authority and the European
+> Commission (DMA).
