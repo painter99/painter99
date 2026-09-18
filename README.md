@@ -32,3 +32,12 @@ prototypy.
   učební a konfigurační projekty z období 2024–2026.
 
 [LinkedIn](https://linkedin.com/in/pavel-mares-p99)
+
+### Malé stanovisko
+
+> Podporuji [Keep Android Open](https://keepandroidopen.org/cs/) — Google
+> zavádí povinnou registraci vývojářů a aplikací i pro distribuci mimo Google
+> Play (první země od 9/2026, globálně od 2027). Alternativní cesty zůstávají,
+> ale přidávají překážky a závisí na službách Googlu. Jako uživatel Androidu
+> považuji otevřenost platformy za klíčovou. Podnět k posouzení jsem podal
+> i ÚOHS a Evropské komisi (DMA).
