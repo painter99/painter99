@@ -18,8 +18,10 @@ prototypy.
   multi-model prompt chainingu a návrhu aplikace AXONEX.
 - **[ai-templates](https://github.com/painter99/ai-templates)** — kolekce
   strukturovaných promptových šablon pro práci s jazykovými modely (archiv).
-- **[aq-analyzer](https://github.com/painter99/aq-analyzer)** — návrh a specifikace
-  Android aplikace pro analýzu kvality audia; fáze konceptu.
+- **[aq-analyzer](https://github.com/painter99/aq-analyzer)** — Android aplikace
+  pro technickou analýzu kvality audia (dynamický rozsah, loudness; Kotlin/Compose);
+  vyvíjeno iterativně z telefonu přes AI agenta Agora: spec → kód →
+  CI (GitHub Actions) → validace na mobilu.
 - **[wsw-olomouc](https://github.com/painter99/wsw-olomouc)** — widget pro
   Android s aktuální teplotou z olomouckých meteostanic (Kotlin/Compose);
   vyvíjeno plně iterativně z telefonu přes AI agenta Agora: spec → kód →
