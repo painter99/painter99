@@ -19,8 +19,10 @@ architecture designs, and small prototypes.
   application design.
 - **[ai-templates](https://github.com/painter99/ai-templates)** — a collection of
   structured prompt templates for working with language models (archived).
-- **[aq-analyzer](https://github.com/painter99/aq-analyzer)** — a design and
-  specification for an Android audio quality analysis app; concept stage.
+- **[aq-analyzer](https://github.com/painter99/aq-analyzer)** — an Android app for
+  technical audio quality analysis (dynamic range, loudness; Kotlin/Compose);
+  developed iteratively from a phone via the Agora AI agent:
+  spec → code → CI (GitHub Actions) → validation on mobile.
 - **[wsw-olomouc](https://github.com/painter99/wsw-olomouc)** — an Android
   widget showing current temperature from Olomouc weather stations
   (Kotlin/Compose); developed entirely iteratively from a phone via the
