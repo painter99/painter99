@@ -20,6 +20,10 @@ prototypy.
   strukturovaných promptových šablon pro práci s jazykovými modely (archiv).
 - **[aq-analyzer](https://github.com/painter99/aq-analyzer)** — návrh a specifikace
   Android aplikace pro analýzu kvality audia; fáze konceptu.
+- **[wsw-olomouc](https://github.com/painter99/wsw-olomouc)** — widget pro
+  Android s aktuální teplotou z olomouckých meteostanic (Kotlin/Compose);
+  vyvíjeno plně iterativně z telefonu přes AI agenta Agora: spec → kód →
+  CI (GitHub Actions) → validace na mobilu.
 - **[agora-pro-setup](https://github.com/painter99/agora-pro-setup)** — konfigurace
   a dokumentace pro AI agenta Agora (F-Droid).
 
