@@ -21,6 +21,10 @@ architecture designs, and small prototypes.
   structured prompt templates for working with language models (archived).
 - **[aq-analyzer](https://github.com/painter99/aq-analyzer)** — a design and
   specification for an Android audio quality analysis app; concept stage.
+- **[wsw-olomouc](https://github.com/painter99/wsw-olomouc)** — an Android
+  widget showing current temperature from Olomouc weather stations
+  (Kotlin/Compose); developed entirely iteratively from a phone via the
+  Agora AI agent: spec → code → CI (GitHub Actions) → validation on mobile.
 - **[agora-pro-setup](https://github.com/painter99/agora-pro-setup)** —
   configuration and documentation for the Agora AI agent (F-Droid).
 
