@@ -27,13 +27,17 @@ architecture designs, and small prototypes.
   widget showing current temperature from Olomouc weather stations
   (Kotlin/Compose); developed entirely iteratively from a phone via the
   Agora AI agent: spec → code → CI (GitHub Actions) → validation on mobile.
+- **[cad-workshop](https://github.com/painter99/cad-workshop)** — a headless
+  parametric CAD workshop (build123d/Python): parts are built from a written
+  spec (`spec.yaml`), verified by automated tests (dimensions, topology,
+  connectivity, export) and headless previews; a human accepts each part by
+  comparing the preview against the original intent.
 - **[agora-pro-setup](https://github.com/painter99/agora-pro-setup)** —
   configuration and documentation for the Agora AI agent (F-Droid).
 
 ## Other (archived)
 
 - **[windsurf-prejunior-config](https://github.com/painter99/windsurf-prejunior-config)**,
-  **[cad-workshop](https://github.com/painter99/cad-workshop)**,
   **[pve-node-iac](https://github.com/painter99/pve-node-iac)**,
   **[odoo-docker-sandbox](https://github.com/painter99/odoo-docker-sandbox)** —
   learning and configuration projects from 2024–2026.
