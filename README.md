@@ -26,13 +26,17 @@ prototypy.
   Android s aktuální teplotou z olomouckých meteostanic (Kotlin/Compose);
   vyvíjeno plně iterativně z telefonu přes AI agenta Agora: spec → kód →
   CI (GitHub Actions) → validace na mobilu.
+- **[cad-workshop](https://github.com/painter99/cad-workshop)** — headless
+  parametrická CAD dílna (build123d/Python): díly se staví z písemné specifikace
+  (`spec.yaml`), ověřují automatizovanými testy (rozměry, topologie, konektivita,
+  export) a headless náhledy; akceptuje je člověk porovnáním náhledu s původním
+  záměrem.
 - **[agora-pro-setup](https://github.com/painter99/agora-pro-setup)** — konfigurace
   a dokumentace pro AI agenta Agora (F-Droid).
 
 ## Další (archiv)
 
 - **[windsurf-prejunior-config](https://github.com/painter99/windsurf-prejunior-config)**,
-  **[cad-workshop](https://github.com/painter99/cad-workshop)**,
   **[pve-node-iac](https://github.com/painter99/pve-node-iac)**,
   **[odoo-docker-sandbox](https://github.com/painter99/odoo-docker-sandbox)** —
   učební a konfigurační projekty z období 2024–2026.
