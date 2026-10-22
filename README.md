@@ -1,53 +1,67 @@
-[English Version](https://github.com/painter99/painter99/blob/main/README_EN.md)
+[English version](https://github.com/painter99/painter99/blob/main/README_EN.md)
 
 # Pavel Mareš
 
 Profesionál s více než 10 lety praxe v průmyslové výrobě (technologie povrchových
-úprav), s certifikací v softwarovém testování (Engeto) a základech kyberbezpečnosti
-(ITnetwork), a se samostudiem Linuxu a Pythonu. Na GitHubu spravuji osobní
-experimenty a učební projekty — převážně dokumentaci, architektury a menší
-prototypy.
+úprav), s certifikací v softwarovém testování (Engeto), znalostmi základů
+kybernetické bezpečnosti (ITnetwork) a samostudiem Linuxu a Pythonu. Na GitHubu
+spravuji osobní experimenty a učební projekty — převážně dokumentaci, návrhy
+architektur a menší prototypy. Aktuálně se zaměřuji na vývoj bez grafického
+rozhraní s podporou AI agenta: práci popisuji textovou specifikací, provádím na
+počítači a ověřuji automatizovanými testy a CI.
 
 ## Vybrané repozitáře
 
+- **[wsw-olomouc](https://github.com/painter99/wsw-olomouc)** — androidový widget
+  zobrazující aktuální teplotu z olomouckých meteostanic (Kotlin/Compose); vyvíjený
+  iterativně z telefonu s pomocí AI agenta Agora: specifikace → kód → CI (GitHub
+  Actions) → ověření na mobilu.
+- **[cad-workshop](https://github.com/painter99/cad-workshop)** — dílna pro
+  parametrické CAD modelování bez grafického rozhraní (build123d/Python): díly
+  vznikají podle písemné specifikace (`spec.yaml`), ověřují se automatizovanými
+  testy (rozměry, topologie, propojenost, export) a náhledy vytvořenými bez GUI;
+  člověk každý díl přijímá porovnáním náhledu s původním záměrem.
+- **[agora-pro-setup](https://github.com/painter99/agora-pro-setup)** —
+  neoficiální konfigurační a metodická vrstva pro AI agenta Agora (F-Droid):
+  šablony promptů, doporučení pro Active Memory, Skills a provozní dokumentace.
+
+## Archivované projekty (2024–2026)
+
 - **[inizio_ukol](https://github.com/painter99/inizio_ukol)** — funkční webová
-  aplikace (Python/Flask) pro získání organických výsledků z Google přes SerpApi
-  s exportem do JSON; zahrnuje unit testy a nasazení v cloudu.
-- **[ai-workshop](https://github.com/painter99/ai-workshop)** — učební repozitář:
-  základy Pythonu a lokálního provozu LLM (Ollama), včetně empiricky ověřeného
-  multi-model prompt chainingu a návrhu aplikace AXONEX.
+  aplikace (Python/Flask), která přes SerpApi získává organické výsledky Google
+  a exportuje je do JSON; obsahuje unit testy a nasazení v cloudu. Vznikla jako
+  technický úkol k pracovnímu pohovoru.
+- **[aq-analyzer](https://github.com/painter99/aq-analyzer)** — androidová aplikace
+  pro technickou analýzu kvality audia (dynamický rozsah, hlasitost;
+  Kotlin/Compose); vyvíjená iterativně z telefonu s pomocí AI agenta Agora:
+  specifikace → kód → CI (GitHub Actions) → ověření na mobilu. Archivována v rané
+  fázi PoC; vývoj pokračuje jako headless pracovní postup na počítači.
 - **[ai-templates](https://github.com/painter99/ai-templates)** — kolekce
-  strukturovaných promptových šablon pro práci s jazykovými modely (archiv).
-- **[aq-analyzer](https://github.com/painter99/aq-analyzer)** — Android aplikace
-  pro technickou analýzu kvality audia (dynamický rozsah, loudness; Kotlin/Compose);
-  vyvíjeno iterativně z telefonu přes AI agenta Agora: spec → kód →
-  CI (GitHub Actions) → validace na mobilu.
-- **[wsw-olomouc](https://github.com/painter99/wsw-olomouc)** — widget pro
-  Android s aktuální teplotou z olomouckých meteostanic (Kotlin/Compose);
-  vyvíjeno plně iterativně z telefonu přes AI agenta Agora: spec → kód →
-  CI (GitHub Actions) → validace na mobilu.
-- **[cad-workshop](https://github.com/painter99/cad-workshop)** — headless
-  parametrická CAD dílna (build123d/Python): díly se staví z písemné specifikace
-  (`spec.yaml`), ověřují automatizovanými testy (rozměry, topologie, konektivita,
-  export) a headless náhledy; akceptuje je člověk porovnáním náhledu s původním
-  záměrem.
-- **[agora-pro-setup](https://github.com/painter99/agora-pro-setup)** — konfigurace
-  a dokumentace pro AI agenta Agora (F-Droid).
-
-## Další (archiv)
-
-- **[windsurf-prejunior-config](https://github.com/painter99/windsurf-prejunior-config)**,
-  **[pve-node-iac](https://github.com/painter99/pve-node-iac)**,
-  **[odoo-docker-sandbox](https://github.com/painter99/odoo-docker-sandbox)** —
-  učební a konfigurační projekty z období 2024–2026.
+  strukturovaných šablon promptů pro práci s jazykovými modely; z dnešního pohledu
+  raný koncepční předstupeň některých principů, na nichž stojí
+  [Agora Skills](https://github.com/painter99/agora-pro-setup).
+- **[pve-node-iac](https://github.com/painter99/pve-node-iac)** — návrh
+  infrastruktury jako kódu pro domácí laboratoř s jedním uzlem Proxmox VE;
+  na skutečném hardwaru nebyl nasazen ani ověřen. Jeho zamýšlené využití dnes
+  nahrazuje headless pracovní postup s podporou AI, popsaný v repozitáři
+  [agora-pro-setup](https://github.com/painter99/agora-pro-setup).
+- **[odoo-docker-sandbox](https://github.com/painter99/odoo-docker-sandbox)** —
+  výukové prostředí Odoo ERP v Dockeru pro učení vývoje a testování; projekt je
+  pozastavený, nikoli definitivně uzavřený.
+- **[semishape](https://github.com/painter99/semishape)** — experimentální plugin
+  pro Agent Zero, který generuje CAD modely pomocí AI (text → kód build123d → STL).
+  Nahradil jej spec-driven přístup s testováním v repozitáři
+  [cad-workshop](https://github.com/painter99/cad-workshop).
+- **[engeto](https://github.com/painter99/engeto)** — studijní práce z kurzu
+  softwarového testování (2024): testy uživatelského rozhraní pomocí Playwright
+  a pytest a závěrečný projekt zaměřený na testování REST API.
 
 [LinkedIn](https://linkedin.com/in/pavel-mares-p99)
 
-### Malé stanovisko
+### Krátké stanovisko
 
-> Podporuji [Keep Android Open](https://keepandroidopen.org/cs/) — Google
-> zavádí povinnou registraci vývojářů a aplikací i pro distribuci mimo Google
-> Play (první země od 9/2026, globálně od 2027). Alternativní cesty zůstávají,
-> ale přidávají překážky a závisí na službách Googlu. Jako uživatel Androidu
-> považuji otevřenost platformy za klíčovou. Podnět k posouzení jsem podal
-> i ÚOHS a Evropské komisi (DMA).
+> Podporuji iniciativu [Keep Android Open](https://keepandroidopen.org/cs/).
+> Google zavádí povinnou registraci vývojářů a aplikací i pro distribuci mimo
+> Google Play (první země od září 2026, globálně od roku 2027). Jako uživatel
+> Androidu považuji otevřenost platformy za zásadní. Podal jsem podnět k posouzení
+> Úřadu pro ochranu hospodářské soutěže a Evropské komisi v souvislosti s DMA.
