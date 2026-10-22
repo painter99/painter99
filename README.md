@@ -44,9 +44,11 @@ na počítači a ověřuji automatizovanými testy a CI.
   [Agora Skills](https://github.com/painter99/agora-pro-setup).
 - **[pve-node-iac](https://github.com/painter99/pve-node-iac)** — návrh
   infrastruktury jako kódu pro domácí laboratoř s jedním uzlem Proxmox VE;
-  na skutečném hardwaru nebyl nasazen ani ověřen. Jeho zamýšlený účel dnes pro
-  mé současné potřeby naplňuje pracovní postup bez grafického rozhraní s podporou
-  AI, popsaný v repozitáři [agora-pro-setup](https://github.com/painter99/agora-pro-setup).
+  na skutečném hardwaru nebyl nasazen ani ověřen. Potřebu, kterou měl návrh řešit,
+  dnes naplňuje jiná cesta — pracovní postup bez grafického rozhraní s podporou AI,
+  popsaný v repozitáři [agora-pro-setup](https://github.com/painter99/agora-pro-setup).
+  Ten pokrývá mé současné potřeby, ale nenahrazuje všechny zamýšlené možnosti návrhu,
+  například virtuální pracovní stanice nebo mediální server.
 - **[odoo-docker-sandbox](https://github.com/painter99/odoo-docker-sandbox)** —
   výukové prostředí pro vývoj a testování Odoo ERP v Dockeru; projekt je
   pozastavený, nikoli definitivně uzavřený.
