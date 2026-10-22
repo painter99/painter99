@@ -28,8 +28,9 @@ na počítači a ověřuji automatizovanými testy a CI.
 ## Archivované projekty (2024–2026)
 
 - **[inizio_ukol](https://github.com/painter99/inizio_ukol)** — funkční webová
-  aplikace (Python/Flask), která přes SerpApi získává organické výsledky Google
-  a exportuje je do formátu JSON; obsahuje jednotkové testy a nasazení v cloudu.
+  aplikace (Python/Flask), která přes SerpApi získává organické výsledky
+  vyhledávání Google a exportuje je do formátu JSON; obsahuje jednotkové testy a
+  nasazení v cloudu.
   Vznikla jako technický úkol k pracovnímu pohovoru.
 - **[aq-analyzer](https://github.com/painter99/aq-analyzer)** — androidová aplikace
   pro technickou analýzu kvality audia (dynamický rozsah, hlasitost;
@@ -65,5 +66,5 @@ na počítači a ověřuji automatizovanými testy a CI.
 > Google zavádí povinnou registraci vývojářů a aplikací i pro distribuci mimo
 > Google Play (první země od září 2026, globálně od roku 2027). Jako uživatel
 > Androidu považuji otevřenost platformy za zásadní. Podal jsem podnět k posouzení
-  Úřadu pro ochranu hospodářské soutěže a Evropské komisi v souvislosti s aktem
-  o digitálních trzích (DMA).
+> Úřadu pro ochranu hospodářské soutěže a Evropské komisi v souvislosti s aktem
+> o digitálních trzích (DMA).
