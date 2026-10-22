@@ -1,4 +1,4 @@
-[English version](https://github.com/painter99/painter99/blob/main/README_EN.md)
+[Anglická verze](https://github.com/painter99/painter99/blob/main/README_EN.md)
 
 # Pavel Mareš
 
@@ -20,7 +20,7 @@ počítači a ověřuji automatizovanými testy a CI.
   parametrické CAD modelování bez grafického rozhraní (build123d/Python): díly
   vznikají podle písemné specifikace (`spec.yaml`), ověřují se automatizovanými
   testy (rozměry, topologie, propojenost, export) a náhledy vytvořenými bez GUI;
-  člověk každý díl přijímá porovnáním náhledu s původním záměrem.
+  člověk každý díl schvaluje porovnáním náhledu s původním záměrem.
 - **[agora-pro-setup](https://github.com/painter99/agora-pro-setup)** —
   neoficiální konfigurační a metodická vrstva pro AI agenta Agora (F-Droid):
   šablony promptů, doporučení pro Active Memory, Skills a provozní dokumentace.
@@ -29,13 +29,14 @@ počítači a ověřuji automatizovanými testy a CI.
 
 - **[inizio_ukol](https://github.com/painter99/inizio_ukol)** — funkční webová
   aplikace (Python/Flask), která přes SerpApi získává organické výsledky Google
-  a exportuje je do JSON; obsahuje unit testy a nasazení v cloudu. Vznikla jako
+  a exportuje je do formátu JSON; obsahuje jednotkové testy a nasazení v cloudu. Vznikla jako
   technický úkol k pracovnímu pohovoru.
 - **[aq-analyzer](https://github.com/painter99/aq-analyzer)** — androidová aplikace
   pro technickou analýzu kvality audia (dynamický rozsah, hlasitost;
   Kotlin/Compose); vyvíjená iterativně z telefonu s pomocí AI agenta Agora:
   specifikace → kód → CI (GitHub Actions) → ověření na mobilu. Archivována v rané
-  fázi PoC; vývoj pokračuje jako headless pracovní postup na počítači.
+  fázi PoC; vývoj pokračuje jako pracovní postup bez grafického rozhraní na
+  počítači.
 - **[ai-templates](https://github.com/painter99/ai-templates)** — kolekce
   strukturovaných šablon promptů pro práci s jazykovými modely; z dnešního pohledu
   raný koncepční předstupeň některých principů, na nichž stojí
@@ -43,14 +44,15 @@ počítači a ověřuji automatizovanými testy a CI.
 - **[pve-node-iac](https://github.com/painter99/pve-node-iac)** — návrh
   infrastruktury jako kódu pro domácí laboratoř s jedním uzlem Proxmox VE;
   na skutečném hardwaru nebyl nasazen ani ověřen. Jeho zamýšlené využití dnes
-  nahrazuje headless pracovní postup s podporou AI, popsaný v repozitáři
+  pokrývá pracovní postup bez grafického rozhraní s podporou AI, popsaný v
+  repozitáři
   [agora-pro-setup](https://github.com/painter99/agora-pro-setup).
 - **[odoo-docker-sandbox](https://github.com/painter99/odoo-docker-sandbox)** —
   výukové prostředí Odoo ERP v Dockeru pro učení vývoje a testování; projekt je
   pozastavený, nikoli definitivně uzavřený.
 - **[semishape](https://github.com/painter99/semishape)** — experimentální plugin
   pro Agent Zero, který generuje CAD modely pomocí AI (text → kód build123d → STL).
-  Nahradil jej spec-driven přístup s testováním v repozitáři
+  Nahradil jej přístup založený na specifikaci a ověřovaný testy v repozitáři
   [cad-workshop](https://github.com/painter99/cad-workshop).
 - **[engeto](https://github.com/painter99/engeto)** — studijní práce z kurzu
   softwarového testování (2024): testy uživatelského rozhraní pomocí Playwright
