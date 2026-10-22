@@ -16,10 +16,11 @@ computer, and verified by automated tests and CI.
   widget showing current temperature from Olomouc weather stations
   (Kotlin/Compose); developed entirely iteratively from a phone via the
   Agora AI agent: spec → code → CI (GitHub Actions) → validation on mobile.
-- **[cad-workshop](https://github.com/painter99/cad-workshop)** — a headless
-  parametric CAD workshop (build123d/Python): parts are built from a written
-  spec (`spec.yaml`), verified by automated tests (dimensions, topology,
-  connectivity, export) and headless previews; a human accepts each part by
+- **[cad-workshop](https://github.com/painter99/cad-workshop)** — parametric
+  CAD modeling (build123d/Python): parts are built from a written spec
+  (`spec.yaml`) on a computer without a GUI and verified by automated tests
+  (dimensions, topology, connectivity, export). The only graphical layer is
+  the phone: I review model previews in the Agora app and approve each part by
   comparing the preview against the original intent.
 - **[agora-pro-setup](https://github.com/painter99/agora-pro-setup)** — an
   unofficial governance and configuration layer for the Agora AI agent
