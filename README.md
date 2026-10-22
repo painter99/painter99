@@ -29,8 +29,8 @@ počítači a ověřuji automatizovanými testy a CI.
 
 - **[inizio_ukol](https://github.com/painter99/inizio_ukol)** — funkční webová
   aplikace (Python/Flask), která přes SerpApi získává organické výsledky Google
-  a exportuje je do formátu JSON; obsahuje jednotkové testy a nasazení v cloudu. Vznikla jako
-  technický úkol k pracovnímu pohovoru.
+  a exportuje je do formátu JSON; obsahuje jednotkové testy a nasazení v cloudu.
+  Vznikla jako technický úkol k pracovnímu pohovoru.
 - **[aq-analyzer](https://github.com/painter99/aq-analyzer)** — androidová aplikace
   pro technickou analýzu kvality audia (dynamický rozsah, hlasitost;
   Kotlin/Compose); vyvíjená iterativně z telefonu s pomocí AI agenta Agora:
