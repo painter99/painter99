@@ -2,13 +2,12 @@
 
 # Pavel Mareš
 
-Professional with 10+ years in industrial manufacturing (surface treatment
-technologies), a software testing certification (Engeto), cybersecurity
-fundamentals (ITnetwork), and self-study in Linux and Python. On GitHub I
-maintain personal experiments and learning projects — mostly documentation,
-architecture designs, and small prototypes. My current focus is headless,
-AI-agent-assisted development: work is specified in text, executed on a
-computer, and verified by automated tests and CI.
+I work in industrial manufacturing (surface treatment technologies) and build
+software in my free time — small apps, parametric CAD, and AI-agent-assisted
+workflows — because I genuinely enjoy it. I hold my hobby projects to the same
+standards as professional work: written specifications, automated tests, CI,
+and documentation. Along the way I completed a software-testing course
+(Engeto) and cybersecurity fundamentals (ITnetwork).
 
 ## Selected repositories
 
