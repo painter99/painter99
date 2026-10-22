@@ -1,4 +1,4 @@
-[Anglická verze](https://github.com/painter99/painter99/blob/main/README_EN.md)
+[English Version](https://github.com/painter99/painter99/blob/main/README_EN.md)
 
 # Pavel Mareš
 
