@@ -7,8 +7,8 @@ Profesionál s více než 10 lety praxe v průmyslové výrobě (technologie pov
 kybernetické bezpečnosti (ITnetwork) a samostudiem Linuxu a Pythonu. Na GitHubu
 spravuji osobní experimenty a učební projekty — převážně dokumentaci, návrhy
 architektur a menší prototypy. Aktuálně se zaměřuji na vývoj bez grafického
-rozhraní s podporou AI agenta: práci popisuji textovou specifikací, provádím na
-počítači a ověřuji automatizovanými testy a CI.
+rozhraní s podporou AI agenta: práci popisuji textovou specifikací, provádím ji
+na počítači a ověřuji automatizovanými testy a CI.
 
 ## Vybrané repozitáře
 
@@ -43,12 +43,11 @@ počítači a ověřuji automatizovanými testy a CI.
   [Agora Skills](https://github.com/painter99/agora-pro-setup).
 - **[pve-node-iac](https://github.com/painter99/pve-node-iac)** — návrh
   infrastruktury jako kódu pro domácí laboratoř s jedním uzlem Proxmox VE;
-  na skutečném hardwaru nebyl nasazen ani ověřen. Jeho zamýšlené využití dnes
-  pokrývá pracovní postup bez grafického rozhraní s podporou AI, popsaný v
-  repozitáři
-  [agora-pro-setup](https://github.com/painter99/agora-pro-setup).
+  na skutečném hardwaru nebyl nasazen ani ověřen. Jeho zamýšlený účel dnes pro
+  mé současné potřeby naplňuje pracovní postup bez grafického rozhraní s podporou
+  AI, popsaný v repozitáři [agora-pro-setup](https://github.com/painter99/agora-pro-setup).
 - **[odoo-docker-sandbox](https://github.com/painter99/odoo-docker-sandbox)** —
-  výukové prostředí Odoo ERP v Dockeru pro učení vývoje a testování; projekt je
+  výukové prostředí pro vývoj a testování Odoo ERP v Dockeru; projekt je
   pozastavený, nikoli definitivně uzavřený.
 - **[semishape](https://github.com/painter99/semishape)** — experimentální plugin
   pro Agent Zero, který generuje CAD modely pomocí AI (text → kód build123d → STL).
@@ -66,4 +65,5 @@ počítači a ověřuji automatizovanými testy a CI.
 > Google zavádí povinnou registraci vývojářů a aplikací i pro distribuci mimo
 > Google Play (první země od září 2026, globálně od roku 2027). Jako uživatel
 > Androidu považuji otevřenost platformy za zásadní. Podal jsem podnět k posouzení
-> Úřadu pro ochranu hospodářské soutěže a Evropské komisi v souvislosti s DMA.
+  Úřadu pro ochranu hospodářské soutěže a Evropské komisi v souvislosti s aktem
+  o digitálních trzích (DMA).
