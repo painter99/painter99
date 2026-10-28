@@ -16,12 +16,11 @@ na počítači a ověřuji automatizovanými testy a CI.
   zobrazující aktuální teplotu z olomouckých meteostanic (Kotlin/Compose); vyvíjený
   iterativně z telefonu s pomocí AI agenta Agora: specifikace → kód → CI (GitHub
   Actions) → ověření na mobilu.
-- **[cad-workshop](https://github.com/painter99/cad-workshop)** — parametrické
-  CAD modelování (build123d/Python): díly vznikají podle písemné specifikace
-  (`spec.yaml`) na počítači bez grafického rozhraní a ověřují se
-  automatizovanými testy (rozměry, topologie, propojenost, export). Jedinou
-  grafickou vrstvou je telefon: náhledy modelů prohlížím v aplikaci Agora
-  a každý díl schvaluji porovnáním náhledu s původním záměrem.
+- **[cad-workshop](https://github.com/painter99/cad-workshop)** — headless CAD
+  framework (build123d/Python): specifikace → model → testy → generovaný
+  kótovaný výkres. Stroj dokazuje správnost, člověk posuzuje vzhled; pracovní
+  smyčka zdokumentovaná jako pattern v
+  [agora-pro-setup](https://github.com/painter99/agora-pro-setup/blob/main/docs/26-cad-workshop.md).
 - **[agora-pro-setup](https://github.com/painter99/agora-pro-setup)** —
   neoficiální konfigurační a metodická vrstva pro AI agenta Agora (F-Droid):
   šablony promptů, doporučení pro Active Memory, Skills a provozní dokumentace.
