@@ -6,7 +6,7 @@ I have over 15 years of experience in industrial manufacturing — quality contr
 
 ## What I am doing now
 
-On my own computer I run an environment for working with AI agents: I describe work as a text specification, execute it on the computer, and verify it with automated tests and CI. The code and tests are written by AI; I prepare the specifications and verify the results.
+From my phone, I direct the development workflow: an AI agent executes tasks on a separate computer. I prepare written specifications and verify results using automated tests that run automatically; AI creates both the code and the tests.
 
 ## Selected projects
 

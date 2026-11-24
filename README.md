@@ -6,7 +6,7 @@ Mám více než 15 let zkušeností z průmyslové výroby — kontrola kvality,
 
 ## Čemu se teď věnuji
 
-Na vlastním počítači provozuji prostředí pro práci s AI agenty: práci popisuji textovou specifikací, provádím ji na počítači a ověřuji automatizovanými testy a CI. Kód i testy vytváří AI; já připravuji zadání a ověřuji výsledky.
+Z telefonu řídím vývojový workflow: AI agent vykonává úlohy na samostatném počítači. Připravuji textové specifikace a výsledky ověřuji automatizovanými testy, které se spouštějí automaticky; kód i testy vytváří AI.
 
 ## Vybrané projekty
 
