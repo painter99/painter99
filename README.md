@@ -10,6 +10,17 @@ architektur a menší prototypy. Aktuálně se zaměřuji na vývoj bez grafick�
 rozhraní s podporou AI agenta: práci popisuji textovou specifikací, provádím ji
 na počítači a ověřuji automatizovanými testy a CI.
 
+## Open-Source Recognition
+
+> „Thanks for offering, and for the thorough writeup in your agora-pro-setup
+> repo... That kind of report is worth more than any test suite I could write."
+> — [newo-ether](https://github.com/newo-ether), autor aplikace
+> [Agora](https://github.com/newo-ether/Agora), [issue #133](https://github.com/newo-ether/Agora/issues/133#issuecomment-7126076491)
+
+Aplikaci Agora používám denně v reálném provozu a hlásím k ní reprodukovatelné
+chyby (repro kroky, očekávané vs. skutečné chování) — viz
+[agora-pro-setup](https://github.com/painter99/agora-pro-setup).
+
 ## Vybrané repozitáře
 
 - **[wsw-olomouc](https://github.com/painter99/wsw-olomouc)** — androidový widget

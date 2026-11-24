@@ -10,6 +10,17 @@ architecture designs, and small prototypes. My current focus is headless,
 AI-agent-assisted development: work is specified in text, executed on a
 computer, and verified by automated tests and CI.
 
+## Open-Source Recognition
+
+> "Thanks for offering, and for the thorough writeup in your agora-pro-setup
+> repo... That kind of report is worth more than any test suite I could write."
+> — [newo-ether](https://github.com/newo-ether), author of
+> [Agora](https://github.com/newo-ether/Agora), [issue #133](https://github.com/newo-ether/Agora/issues/133#issuecomment-7126076491)
+
+I use Agora daily in real-world workflows and file reproducible bug reports
+(repro steps, expected vs. actual behavior) — see
+[agora-pro-setup](https://github.com/painter99/agora-pro-setup).
+
 ## Selected repositories
 
 - **[wsw-olomouc](https://github.com/painter99/wsw-olomouc)** — an Android
